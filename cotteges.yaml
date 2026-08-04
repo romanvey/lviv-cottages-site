@@ -11,14 +11,14 @@
 meta:
   site: https://lviv-cottages.vercel.app
   generated: 2026-08-04
-  count: 601
+  count: 607
   centre: "Львів, пл. Ринок (49.839683, 24.029717)"
   distances_are: "straight-line km from that centre, not driving distance"
   currency: UAH
   price_means: "whole property per night, not per person"
-  within_25km: 52
-  within_45km: 68
-  within_100km: 111
+  within_25km: 58
+  within_45km: 74
+  within_100km: 117
   verified_by_phone: 0
   caveat: >-
     Nothing here has been confirmed with an owner. Prices and capacities are what the
@@ -89,12 +89,12 @@ contributing:
     sources geocode the estate agent's office, which puts a cottage in the middle of
     Lviv. If the prose names a village that disagrees with the pin, say so in the entry
     rather than picking one.
-  already_scraped_sources: ["hutshub","olx","own_site","real_estate_lviv"]
+  already_scraped_sources: ["google_maps","hutshub","olx","own_site","real_estate_lviv"]
   known_gaps: >-
     Бірки and Липники were named as target settlements but appear on none of the
     platforms searched; anything there is likely Instagram- or Telegram-only. Coverage
     thins beyond 45 km from Lviv on the non-hutshub sources.
-  settlements_covered: ["Unnamed Road","Івано-Франківськ","Івано-Франківська область","Івачів Горішній","Івачів Долішній","Ізки","Ільці","Ілів","Ісаківці","Андруга","Бабин","Багна","Балико-Щучинка","Береги","Берегомет","Бережани","Бережниця","Березівка","Борщовичі","Брюховичі","Буковець","Васильків","Велика Бугаївка","Великі Мости","Вербовець","Вертелка","Верхня Рожанка","Верхнє Синьовидне","Верхній Студений","Верхній Ясенів","Верховина","Вигода","Виннички","Витачів","Вишеньки","Вишка","Вишків","Вища Дубечня","Вовчий","Волосянка","Воля-Блажівська","Воля-Гомулецька","Воропаїв","Ворохта","Вільшинки","Глибоке","Глухове","Глібівка","Гнідин","Гонятичі","Горбачі","Городок","Горохове","Грабовець","Гребенів","Григорівка","Гринів","Гукливий","Гута","Давидківці","Делятин","Дерев'янки","Деревач","Деремезна","Дзвінкове","Дземброня","Дмитрушки","Добростани","Добрянка","Долинівка","Драгобрат","Дубляни","Дубриничі","Дудки","Жденієво","Жереб’ятин","Жовтанці","Жукин","Журавно","Забуяння","Забір'я","Завадка","Зазим'є","Закичера","Залужжя","Залісці","Замагора","Запоріжжя","Зарваниця","Здорівка","Зелена","Зелений Дуб","Кам'янка","Каштанівка","Кваси","Київ","Кладьківка","Кожухівка","Козлин","Козьова","Коленцівське","Коритище","Коростів","Корчин","Косів","Красник","Красноілля","Красів","Красія","Кривопілля","Криворівня","Кропивник","Крушельниця","Крюківщина","Кугаїв","Куражин","Лавочне","Ластівці","Летня","Либохора","Липина","Личанка","Лопушанка-Хомина","Лопушна","Луцьк","Львів","Любимівка","Лютіж","Ліпляве","Ліс","Лісники","Лісопотік","Майдан","Мала Воля","Маринин","Межирів","Мигове","Миколаїв","Миколаївка","Микуличин","Мита","Михайлівка-Рубежівка","Могилів-Подільський","Могилівка","Могилівська","Мукачево","Мшанець","Міжгір'я","Міжгір’я","Невицьке","Непоротове","Нерубайське","Нестюки","Нижня Рожанка","Нижні Ворота","Нижній Студений","Новий Кропивник","Новий Яр","Новомиколаївка","Новосілки","Нові Безрадичі","Ніжиловичі","Оболоння","Обухівка","Озерське","Оноківці","Опака","Орявчик","Орів","Остер","Осій","Павлівка","Папірня","Перемишляни","Перехресне","Петрушки","Пилипець","Плав'я","Подобовець","Полтава","Поляна","Поляниця","Проців","Путила","Підлуби","Підліски","Раківець","Ременів","Ржищів","Рибне","Рибник","Родатичі","Розлуч","Розтоки","Рокитне","Романівка","Ромашки","Рудківці","Рудне","Руська","Рівня","Річка","Самушин","Сасівка","Селятинська сільська громада","Сенечів","Середнє","Синяк","Скнилів","Сколе","Славське","Славсько","Собич","Сокільники","Солочин","Соснове","Спас","Ставне","Стадники","Стайки","Старі Петрівці","Стебний","Страдч","Субіч","Сурсько-Литовське","Сусково","Сухий Потік","Суховоля","Східниця","Татарів","Тернавка","Тетерівка","Товщів","Толокунь","Труханів","Туринка","Тухля","Тюдів","Ужгород","Уклин","Уляники","Урич","Устеріки","Ферма","Фортунатівка","Хащованя","Хвильово-Сорочин","Хмільна","Холодне","Хорови","Хоросно","Хрещатик","Царичанка","Цитуля","Черетів","Черешенька","Чмирівка","Чорний Потік","Шаян","Широка Гребля","Шкло","Шляхтинці","Шоломинь","Шпитьки","Щітки","Яблуниця","Яблунів","Яворів","Яремче","Ясногородка","Ясіня","Яцьки","вул. Лісова"]
+  settlements_covered: ["Unnamed Road","Івано-Франкове","Івано-Франківськ","Івано-Франківська область","Івачів Горішній","Івачів Долішній","Ізки","Ільці","Ілів","Ісаківці","Андруга","Бабин","Багна","Балико-Щучинка","Береги","Берегомет","Бережани","Бережниця","Березівка","Борщовичі","Брюховичі","Буковець","Васильків","Велика Бугаївка","Великі Мости","Вербовець","Вертелка","Верхня Рожанка","Верхнє Синьовидне","Верхній Студений","Верхній Ясенів","Верховина","Вигода","Виннички","Витачів","Вишеньки","Вишка","Вишків","Вища Дубечня","Вовчий","Волосянка","Воля-Блажівська","Воля-Гомулецька","Воропаїв","Ворохта","Вільшинки","Глибоке","Глухове","Глібівка","Гнідин","Гонятичі","Горбачі","Городок","Горохове","Грабовець","Гребенів","Григорівка","Гринів","Гукливий","Гута","Давидківці","Делятин","Дерев'янки","Деревач","Деремезна","Дзвінкове","Дземброня","Дмитрушки","Добростани","Добрянка","Долинівка","Драгобрат","Дубляни","Дубриничі","Дудки","Жденієво","Жереб’ятин","Жовтанці","Жукин","Журавно","Забуяння","Забір'я","Завадка","Зазим'є","Закичера","Залужжя","Залісці","Замагора","Запоріжжя","Зарваниця","Зашків","Здорівка","Зелена","Зелений Дуб","Кам'янка","Каштанівка","Кваси","Київ","Кладьківка","Кожухівка","Козлин","Козьова","Коленцівське","Коритище","Коростів","Корчин","Косів","Красник","Красноілля","Красів","Красія","Кривопілля","Криворівня","Кропивник","Крушельниця","Крюківщина","Кугаїв","Куликів","Куражин","Лавочне","Ластівці","Летня","Либохора","Липина","Личанка","Лопушанка-Хомина","Лопушна","Луцьк","Львів","Любимівка","Лютіж","Ліпляве","Ліс","Лісники","Лісопотік","Майдан","Мала Воля","Маринин","Межирів","Мигове","Миколаїв","Миколаївка","Микуличин","Мита","Михайлівка-Рубежівка","Могилів-Подільський","Могилівка","Могилівська","Мукачево","Мшанець","Міжгір'я","Міжгір’я","Невицьке","Непоротове","Нерубайське","Нестюки","Нижня Рожанка","Нижні Ворота","Нижній Студений","Новий Кропивник","Новий Яр","Новомиколаївка","Новосілки","Нові Безрадичі","Ніжиловичі","Оболоння","Обухівка","Озерське","Оноківці","Опака","Орявчик","Орів","Остер","Осій","Павлівка","Папірня","Перемишляни","Перехресне","Петрушки","Пилипець","Плав'я","Подобовець","Полтава","Поляна","Поляниця","Проців","Пустомити","Путила","Підлуби","Підліски","Раківець","Ременів","Ржищів","Рибне","Рибник","Родатичі","Розділ","Розлуч","Розтоки","Рокитне","Романівка","Ромашки","Рудківці","Рудне","Руська","Рівня","Річка","Самушин","Сасівка","Селятинська сільська громада","Сенечів","Середнє","Синяк","Скнилів","Сколе","Славське","Славсько","Собич","Сокільники","Солочин","Соснове","Спас","Ставне","Стадники","Стайки","Старі Петрівці","Стебний","Страдч","Субіч","Сурсько-Литовське","Сусково","Сухий Потік","Суховоля","Східниця","Татарів","Тернавка","Тетерівка","Товщів","Толокунь","Труханів","Туринка","Тухля","Тюдів","Ужгород","Уклин","Уляники","Урич","Устеріки","Ферма","Фортунатівка","Хащованя","Хвильово-Сорочин","Хмільна","Холодне","Хорови","Хоросно","Хрещатик","Царичанка","Цитуля","Черетів","Черешенька","Чишки","Чмирівка","Чорний Потік","Шаян","Широка Гребля","Шкло","Шляхтинці","Шоломинь","Шпитьки","Щітки","Яблуниця","Яблунів","Яворів","Яремче","Ясногородка","Ясіня","Яцьки","вул. Лісова"]
 
 leads:
   what_this_is: >-
@@ -109,7 +109,7 @@ leads:
     campsites rather than whole-house stays, and should be reported back as unsuitable
     rather than added.
   found_by: "Google Maps keyword sweep, 2026-08-04"
-  count: 18
+  count: 12
   entries:
     - name: Котедж Загадка Карпат
       lat: 49.8313224
@@ -174,33 +174,6 @@ leads:
       phone: +380986675577
       google_category: Котеджі
       maps: "https://www.google.com/maps/search/?api=1&query=49.7523519,23.9985175"
-    - name: "\"Дім Оверко\" — котедж з басейном, чаном, сауною"
-      lat: 49.7946473
-      lng: 24.1662315
-      distance_km: 11
-      google_rating: 4.7
-      google_reviews: 61
-      phone: +380673760000
-      google_category: Котедж
-      maps: "https://www.google.com/maps/search/?api=1&query=49.7946473,24.1662315"
-    - name: Villa ZENKO
-      lat: 49.9103801
-      lng: 23.9292861
-      distance_km: 11
-      google_rating: 5
-      google_reviews: 134
-      phone: +380964070657
-      google_category: Вілла
-      maps: "https://www.google.com/maps/search/?api=1&query=49.9103801,23.9292861"
-    - name: Котеджі "In Garden"
-      lat: 49.9184872
-      lng: 23.9209412
-      distance_km: 12
-      google_rating: 4.7
-      google_reviews: 25
-      phone: +380964160170
-      google_category: Котеджі
-      maps: "https://www.google.com/maps/search/?api=1&query=49.9184872,23.9209412"
     - name: SOHO PARK — будинки з басейном, сауною, хамамом
       lat: 49.8107585
       lng: 24.193712
@@ -210,15 +183,6 @@ leads:
       phone: null
       google_category: Оренда будинків
       maps: "https://www.google.com/maps/search/?api=1&query=49.8107585,24.193712"
-    - name: PARK21
-      lat: 49.7228369
-      lng: 23.991301
-      distance_km: 13
-      google_rating: 4.4
-      google_reviews: 37
-      phone: +380973709916
-      google_category: Оренда котеджів
-      maps: "https://www.google.com/maps/search/?api=1&query=49.7228369,23.991301"
     - name: Лісовий будинок — сауна біля Львова
       lat: 49.9457393
       lng: 23.9076345
@@ -228,15 +192,6 @@ leads:
       phone: +380676760141
       google_category: Лісовий будинок
       maps: "https://www.google.com/maps/search/?api=1&query=49.9457393,23.9076345"
-    - name: Літній будинок відпочинку "Дача"
-      lat: 49.8386705
-      lng: 23.799453
-      distance_km: 17
-      google_rating: 5
-      google_reviews: 18
-      phone: +380631478657
-      google_category: Зона відпочинку
-      maps: "https://www.google.com/maps/search/?api=1&query=49.8386705,23.799453"
     - name: Лісова перлина
       lat: 49.79736
       lng: 23.77531
@@ -246,15 +201,6 @@ leads:
       phone: +380689221899
       google_category: Комплекс
       maps: "https://www.google.com/maps/search/?api=1&query=49.79736,23.77531"
-    - name: Forest House
-      lat: 49.6365023
-      lng: 24.0193573
-      distance_km: 22
-      google_rating: 4.8
-      google_reviews: 359
-      phone: +380679639980
-      google_category: Комплекс з басейном
-      maps: "https://www.google.com/maps/search/?api=1&query=49.6365023,24.0193573"
     - name: Котедж База-відпочинку Мостище
       lat: 49.679756
       lng: 24.3058881
@@ -938,6 +884,76 @@ cottages:
       platform: hutshub
       url: "https://hutshub.com/complexes/65d369848fa8422fc25ad019/kompleks-cozy-chalet"
       scraped_at: 2026-08-03
+  - id: villa-zenko
+    name: Villa ZENKO
+    type: cottage
+    status: candidate
+    url: "https://lviv-cottages.vercel.app/lot/villa-zenko.html"
+    description: Знайдено на Google Maps під час пошуку по околицях Львова. Ціна, місткість і зручності ще не з’ясовані — телефонуй власнику. Рейтинг Google 5 з 134 відгуків.
+    location:
+      settlement: Зашків
+      area: Львівська область
+      lat: 49.9103801
+      lng: 23.9292861
+      distance_km: 11
+    capacity:
+      guests: 0
+      bedrooms: null
+      beds: null
+      bathrooms: null
+    price:
+      amount: 0
+      weekend_amount: null
+      min_nights: 1
+      extras: ціна не з’ясована — Google Maps її не публікує
+    amenities: []
+    images:
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/villa-zenko/01.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/villa-zenko/02.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/villa-zenko/03.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/villa-zenko/04.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/villa-zenko/05.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/villa-zenko/06.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/villa-zenko/07.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/villa-zenko/08.webp"
+    source:
+      platform: google_maps
+      url: "https://www.google.com/maps/search/?api=1&query=49.9103801,23.9292861"
+      scraped_at: 2026-08-04
+  - id: dim-overko
+    name: "\"Дім Оверко\" — котедж з басейном, чаном, сауною"
+    type: cottage
+    status: candidate
+    url: "https://lviv-cottages.vercel.app/lot/dim-overko.html"
+    description: Знайдено на Google Maps під час пошуку по околицях Львова. Ціна, місткість і зручності ще не з’ясовані — телефонуй власнику. Рейтинг Google 4.7 з 61 відгуків.
+    location:
+      settlement: Чишки
+      area: Львівська область
+      lat: 49.7946473
+      lng: 24.1662315
+      distance_km: 11
+    capacity:
+      guests: 0
+      bedrooms: null
+      beds: null
+      bathrooms: null
+    price:
+      amount: 0
+      weekend_amount: null
+      min_nights: 1
+      extras: ціна не з’ясована — Google Maps її не публікує
+    amenities: []
+    images:
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/dim-overko/01.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/dim-overko/02.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/dim-overko/03.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/dim-overko/04.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/dim-overko/05.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/dim-overko/06.webp"
+    source:
+      platform: google_maps
+      url: "https://www.google.com/maps/search/?api=1&query=49.7946473,24.1662315"
+      scraped_at: 2026-08-04
   - id: week-house-bryukhovychi
     name: Week House
     type: cottage
@@ -1064,6 +1080,42 @@ cottages:
       platform: real_estate_lviv
       url: "https://www.real-estate.lviv.ua/8150-%D0%B1%D1%83%D0%B4%D0%B8%D0%BD%D0%BE%D0%BA-%D0%BF%D0%BE%D0%B4%D0%BE%D0%B1%D0%BE%D0%B2%D0%BE-%D0%B2%D0%B8%D0%BD%D0%BD%D0%B8%D1%87%D0%BA%D0%B8-%D0%BF%D1%83%D1%81%D1%82%D0%BE%D0%BC%D0%B8%D1%82%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9--%D1%81%D0%BE%D0%BD%D1%8F%D1%87%D0%BD%D0%B0.html"
       scraped_at: 2026-08-03
+  - id: in-garden
+    name: Котеджі "In Garden"
+    type: cottage
+    status: candidate
+    url: "https://lviv-cottages.vercel.app/lot/in-garden.html"
+    description: Знайдено на Google Maps під час пошуку по околицях Львова. Ціна, місткість і зручності ще не з’ясовані — телефонуй власнику. Рейтинг Google 4.7 з 25 відгуків.
+    location:
+      settlement: Куликів
+      area: Львівська область
+      lat: 49.9184872
+      lng: 23.9209412
+      distance_km: 12
+    capacity:
+      guests: 0
+      bedrooms: null
+      beds: null
+      bathrooms: null
+    price:
+      amount: 0
+      weekend_amount: null
+      min_nights: 1
+      extras: ціна не з’ясована — Google Maps її не публікує
+    amenities: []
+    images:
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/in-garden/01.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/in-garden/02.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/in-garden/03.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/in-garden/04.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/in-garden/05.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/in-garden/06.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/in-garden/07.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/in-garden/08.webp"
+    source:
+      platform: google_maps
+      url: "https://www.google.com/maps/search/?api=1&query=49.9184872,23.9209412"
+      scraped_at: 2026-08-04
   - id: symbiohouse
     name: symbio.house
     type: cottage
@@ -1110,6 +1162,42 @@ cottages:
       platform: hutshub
       url: "https://hutshub.com/complexes/690de6789cedaa543c62e9f9/kompleks-symbiohouse"
       scraped_at: 2026-08-03
+  - id: park21
+    name: PARK21
+    type: cottage
+    status: candidate
+    url: "https://lviv-cottages.vercel.app/lot/park21.html"
+    description: Знайдено на Google Maps під час пошуку по околицях Львова. Ціна, місткість і зручності ще не з’ясовані — телефонуй власнику. Рейтинг Google 4.4 з 37 відгуків.
+    location:
+      settlement: Пустомити
+      area: Львівська область
+      lat: 49.7228369
+      lng: 23.991301
+      distance_km: 13
+    capacity:
+      guests: 0
+      bedrooms: null
+      beds: null
+      bathrooms: null
+    price:
+      amount: 0
+      weekend_amount: null
+      min_nights: 1
+      extras: ціна не з’ясована — Google Maps її не публікує
+    amenities: []
+    images:
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/park21/01.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/park21/02.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/park21/03.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/park21/04.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/park21/05.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/park21/06.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/park21/07.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/park21/08.webp"
+    source:
+      platform: google_maps
+      url: "https://www.google.com/maps/search/?api=1&query=49.7228369,23.991301"
+      scraped_at: 2026-08-04
   - id: mistsyna-shchaslyvykh-liudei
     name: Місцина Щасливих Людей
     type: cottage
@@ -1444,6 +1532,42 @@ cottages:
       platform: real_estate_lviv
       url: "https://www.real-estate.lviv.ua/13352-%D0%B1%D1%83%D0%B4%D0%B8%D0%BD%D0%BE%D0%BA-%D0%BF%D0%BE%D0%B4%D0%BE%D0%B1%D0%BE%D0%B2%D0%BE-%D0%B1%D0%B5%D1%80%D0%B5%D0%B3%D0%B8-%D0%BF%D1%83%D1%81%D1%82%D0%BE%D0%BC%D0%B8%D1%82%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9-.html"
       scraped_at: 2026-08-03
+  - id: litnii-dacha
+    name: Літній будинок відпочинку "Дача"
+    type: cottage
+    status: candidate
+    url: "https://lviv-cottages.vercel.app/lot/litnii-dacha.html"
+    description: Знайдено на Google Maps під час пошуку по околицях Львова. Ціна, місткість і зручності ще не з’ясовані — телефонуй власнику. Рейтинг Google 5 з 18 відгуків.
+    location:
+      settlement: Івано-Франкове
+      area: Львівська область
+      lat: 49.8386705
+      lng: 23.799453
+      distance_km: 17
+    capacity:
+      guests: 0
+      bedrooms: null
+      beds: null
+      bathrooms: null
+    price:
+      amount: 0
+      weekend_amount: null
+      min_nights: 1
+      extras: ціна не з’ясована — Google Maps її не публікує
+    amenities: []
+    images:
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/litnii-dacha/01.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/litnii-dacha/02.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/litnii-dacha/03.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/litnii-dacha/04.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/litnii-dacha/05.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/litnii-dacha/06.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/litnii-dacha/07.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/litnii-dacha/08.webp"
+    source:
+      platform: google_maps
+      url: "https://www.google.com/maps/search/?api=1&query=49.8386705,23.799453"
+      scraped_at: 2026-08-04
   - id: cloudframe-1
     name: CloudFrame 1
     type: a-frame
@@ -1955,6 +2079,42 @@ cottages:
       platform: hutshub
       url: "https://hutshub.com/complexes/6565ad38b689e9d1b9dee797/kompleks-skarbova-hora"
       scraped_at: 2026-08-03
+  - id: forest-house
+    name: Forest House
+    type: cottage
+    status: candidate
+    url: "https://lviv-cottages.vercel.app/lot/forest-house.html"
+    description: Знайдено на Google Maps під час пошуку по околицях Львова. Ціна, місткість і зручності ще не з’ясовані — телефонуй власнику. Рейтинг Google 4.8 з 359 відгуків.
+    location:
+      settlement: Розділ
+      area: Львівська область
+      lat: 49.6365023
+      lng: 24.0193573
+      distance_km: 22
+    capacity:
+      guests: 0
+      bedrooms: null
+      beds: null
+      bathrooms: null
+    price:
+      amount: 0
+      weekend_amount: null
+      min_nights: 1
+      extras: ціна не з’ясована — Google Maps її не публікує
+    amenities: []
+    images:
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/forest-house/01.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/forest-house/02.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/forest-house/03.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/forest-house/04.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/forest-house/05.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/forest-house/06.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/forest-house/07.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/forest-house/08.webp"
+    source:
+      platform: google_maps
+      url: "https://www.google.com/maps/search/?api=1&query=49.6365023,24.0193573"
+      scraped_at: 2026-08-04
   - id: maidan-house
     name: Майдан house
     type: cottage

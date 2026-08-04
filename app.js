@@ -151,7 +151,9 @@ function card(l) {
       ${l.status === 'candidate' ? '<span class="flag">не перевірено</span>' : ''}
       <button class="fav${fav ? ' on' : ''}" data-fav="${l.id}" aria-pressed="${fav}"
               title="${fav ? 'Прибрати з обраного' : 'В обране'}">${fav ? '★' : '☆'}</button>
-      <span class="price${warn.includes('ціна?') ? ' suspect' : ''}">${money(l.price?.amount)} ₴<small>/ніч</small></span>
+      <span class="price${warn.includes('ціна?') ? ' suspect' : ''}">${
+        l.price?.amount ? `${money(l.price.amount)} ₴<small>/ніч</small>` : '<small>ціну уточнити</small>'
+      }</span>
       ${l.images?.length > 1 ? `<span class="shots">${l.images.length} фото</span>` : ''}
     </div>
     <div class="body">
@@ -159,7 +161,7 @@ function card(l) {
       <div class="where">${esc(l.location?.settlement ?? '')}${dist != null ? ` · ${dist} км` : ''}</div>
       <div class="facts">
         <span>${TYPE_LABEL[l.type] ?? l.type}</span>
-        <span>до ${l.capacity?.guests ?? '?'} гостей</span>
+        ${l.capacity?.guests ? `<span>до ${l.capacity.guests} гостей</span>` : ''}
         ${l.capacity?.bedrooms ? `<span>${l.capacity.bedrooms} спальні</span>` : ''}
         ${l.rating ? `<span>★ ${l.rating.score}</span>` : ''}
       </div>
