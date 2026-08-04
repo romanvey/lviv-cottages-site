@@ -29,6 +29,14 @@ const thumbUrl = (id, file) =>
 let lots = []
 const picked = new Set()
 
+// Favourites live in localStorage — no account, no server, survives a reload.
+const FAV_KEY = 'lviv-cottages:favs'
+const readFavs = () => {
+  try { return new Set(JSON.parse(localStorage.getItem(FAV_KEY)) || []) } catch { return new Set() }
+}
+let favs = readFavs()
+const saveFavs = () => localStorage.setItem(FAV_KEY, JSON.stringify([...favs]))
+
 fetch('data/cottages.json')
   .then((r) => r.json())
   .then((data) => {
@@ -60,8 +68,10 @@ function visible() {
   const dist = +$('#dist').value || Infinity
   const type = $('#type').value
   const status = $('#status').value
+  const onlyFavs = $('#onlyfav').getAttribute('aria-pressed') === 'true'
 
   return lots.filter((l) => {
+    if (onlyFavs && !favs.has(l.id)) return false
     if ((l.location?.distance_km ?? Infinity) > dist) return false
     if (status === 'live') { if (l.status === 'duplicate' || l.status === 'rejected') return false }
     else if (status && l.status !== status) return false
@@ -117,7 +127,6 @@ function render(reset = true) {
   $('#more').hidden = list.length <= shown
   $('#more').textContent = `показати ще ${Math.max(0, Math.min(PAGE, list.length - shown))}`
   grid.innerHTML = page.map(card).join('')
-  grid.querySelectorAll('.card').forEach((el) => el.addEventListener('click', () => open(el.dataset.id)))
 }
 
 // a lot whose price or capacity looks wrong must LOOK wrong — otherwise a stale
@@ -129,11 +138,18 @@ function card(l) {
   const cover = l.images?.[0]
   const dist = l.location?.distance_km
   const warn = checks(l)
+  const fav = favs.has(l.id)
+  // a real <a> so the card can be middle-clicked, bookmarked and link-copied;
+  // target=_blank keeps the board and its filters open behind the detail page
   return `
   <article class="card" data-id="${l.id}">
+    <a class="hit" href="lot/${l.id}.html" target="_blank" rel="noopener"
+       aria-label="${esc(l.name)}"></a>
     <div class="cover">
       ${cover ? `<img loading="lazy" src="${thumbUrl(l.id, cover.file)}" alt="">` : '<div class="no-photo">без фото</div>'}
       ${l.status === 'candidate' ? '<span class="flag">не перевірено</span>' : ''}
+      <button class="fav${fav ? ' on' : ''}" data-fav="${l.id}" aria-pressed="${fav}"
+              title="${fav ? 'Прибрати з обраного' : 'В обране'}">${fav ? '★' : '☆'}</button>
       <span class="price${warn.includes('ціна?') ? ' suspect' : ''}">${money(l.price?.amount)} ₴<small>/ніч</small></span>
       ${l.images?.length > 1 ? `<span class="shots">${l.images.length} фото</span>` : ''}
     </div>
@@ -154,52 +170,6 @@ function card(l) {
   </article>`
 }
 
-// ---------- detail ----------
-
-function open(id) {
-  const l = lots.find((x) => x.id === id)
-  const c = l.contacts ?? {}
-  const link = (href, text) => href ? `<a href="${href}" target="_blank" rel="noopener">${text}</a>` : ''
-
-  const rows = [
-    ['ціна', `${money(l.price?.amount)} ₴/ніч` +
-      (l.price?.weekend_amount ? ` · вихідні ${money(l.price.weekend_amount)} ₴` : '') +
-      (l.price?.min_nights > 1 ? ` · мін. ${l.price.min_nights} ночі` : '') +
-      (l.price?.deposit ? ` · застава ${money(l.price.deposit)} ₴` : '')],
-    ['місткість', `${l.capacity?.guests} гостей` +
-      (l.capacity?.bedrooms ? `, ${l.capacity.bedrooms} спальні` : '') +
-      (l.capacity?.beds ? `, ${l.capacity.beds} ліжок` : '') +
-      (l.capacity?.bathrooms ? `, ${l.capacity.bathrooms} санвузли` : '')],
-    ['де', [l.location?.settlement, l.location?.area, l.location?.distance_km != null ? `${l.location.distance_km} км від Львова` : '']
-      .filter(Boolean).join(' · ') + ' ' + link(l.location?.maps_url, '→ карта')],
-    ['зручності', (l.amenities ?? []).map((a) => AMENITY_LABEL[a] ?? a).join(', ') || '—'],
-    ['додатково', l.price?.extras],
-    ['рейтинг', l.rating ? `★ ${l.rating.score} (${l.rating.count} відгуків, ${l.rating.platform})` : ''],
-    ['контакти', [
-      c.phone ? `<a href="tel:${c.phone}">${c.phone}</a>` : '',
-      link(c.instagram, 'instagram'), link(c.facebook, 'facebook'),
-      link(c.website, 'сайт'), c.telegram ? `telegram ${c.telegram}` : '',
-    ].filter(Boolean).join(' · ')],
-    ['джерело', link(l.source?.url, l.source?.platform ?? 'посилання') +
-      (l.source?.scraped_at ? ` <small>(${l.source.scraped_at})</small>` : '')],
-    ['перевірено', l.verified_at ?? '—'],
-  ].filter(([, v]) => v)
-
-  $('#modal').innerHTML = `
-    <button class="close" onclick="document.getElementById('modal').close()">×</button>
-    <div class="m-gallery">
-      ${(l.images ?? []).map((i) => `<img loading="lazy" src="${imgUrl(l.id, i.file)}" alt="${esc(i.caption ?? '')}" title="${esc(i.caption ?? '')}" onclick="window.open(this.src)">`).join('')}
-    </div>
-    <div class="m-body">
-      <h2>${esc(l.name)}</h2>
-      <div class="where">${TYPE_LABEL[l.type] ?? l.type} · ${esc(l.location?.settlement ?? '')}</div>
-      ${l.description ? `<p>${esc(l.description)}</p>` : ''}
-      <dl>${rows.map(([k, v]) => `<dt>${k}</dt><dd>${v}</dd>`).join('')}</dl>
-      ${l.notes ? `<div class="note">${esc(l.notes)}</div>` : ''}
-    </div>`
-  $('#modal').showModal()
-}
-
 function esc(s) {
   return String(s ?? '').replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]))
 }
@@ -211,6 +181,31 @@ document.querySelectorAll('#q, #pmin, #pmax, #guests, #dist, #type, #status, #so
 
 $('#more').addEventListener('click', () => { shown += PAGE; render(false) })
 
+// the star sits on top of the card's link — stop it navigating
+grid.addEventListener('click', (e) => {
+  const b = e.target.closest('.fav')
+  if (!b) return
+  e.preventDefault()
+  e.stopPropagation()
+  const id = b.dataset.fav
+  favs.has(id) ? favs.delete(id) : favs.add(id)
+  saveFavs()
+  render(false)
+})
+
+$('#onlyfav').addEventListener('click', () => {
+  const on = $('#onlyfav').getAttribute('aria-pressed') !== 'true'
+  $('#onlyfav').setAttribute('aria-pressed', on)
+  render()
+})
+
+// another tab may have changed the favourites
+addEventListener('storage', (e) => {
+  if (e.key !== FAV_KEY) return
+  favs = readFavs()
+  render(false)
+})
+
 $('#amenities').addEventListener('click', (e) => {
   const b = e.target.closest('.chip')
   if (!b) return
@@ -221,6 +216,7 @@ $('#amenities').addEventListener('click', (e) => {
 })
 
 $('#reset').addEventListener('click', () => {
+  $('#onlyfav').setAttribute('aria-pressed', 'false')
   document.querySelectorAll('#q, #pmin, #pmax, #guests').forEach((el) => (el.value = ''))
   $('#dist').value = '100'
   $('#type').value = ''
