@@ -96,6 +96,184 @@ contributing:
     thins beyond 45 km from Lviv on the non-hutshub sources.
   settlements_covered: ["Unnamed Road","Івано-Франківськ","Івано-Франківська область","Івачів Горішній","Івачів Долішній","Ізки","Ільці","Ілів","Ісаківці","Андруга","Бабин","Багна","Балико-Щучинка","Береги","Берегомет","Бережани","Бережниця","Березівка","Борщовичі","Брюховичі","Буковець","Васильків","Велика Бугаївка","Великі Мости","Вербовець","Вертелка","Верхня Рожанка","Верхнє Синьовидне","Верхній Студений","Верхній Ясенів","Верховина","Вигода","Виннички","Витачів","Вишеньки","Вишка","Вишків","Вища Дубечня","Вовчий","Волосянка","Воля-Блажівська","Воля-Гомулецька","Воропаїв","Ворохта","Вільшинки","Глибоке","Глухове","Глібівка","Гнідин","Гонятичі","Горбачі","Городок","Горохове","Грабовець","Гребенів","Григорівка","Гринів","Гукливий","Гута","Давидківці","Делятин","Дерев'янки","Деревач","Деремезна","Дзвінкове","Дземброня","Дмитрушки","Добростани","Добрянка","Долинівка","Драгобрат","Дубляни","Дубриничі","Дудки","Жденієво","Жереб’ятин","Жовтанці","Жукин","Журавно","Забуяння","Забір'я","Завадка","Зазим'є","Закичера","Залужжя","Залісці","Замагора","Запоріжжя","Зарваниця","Здорівка","Зелена","Зелений Дуб","Кам'янка","Каштанівка","Кваси","Київ","Кладьківка","Кожухівка","Козлин","Козьова","Коленцівське","Коритище","Коростів","Корчин","Косів","Красник","Красноілля","Красів","Красія","Кривопілля","Криворівня","Кропивник","Крушельниця","Крюківщина","Кугаїв","Куражин","Лавочне","Ластівці","Летня","Либохора","Липина","Личанка","Лопушанка-Хомина","Лопушна","Луцьк","Львів","Любимівка","Лютіж","Ліпляве","Ліс","Лісники","Лісопотік","Майдан","Мала Воля","Маринин","Межирів","Мигове","Миколаїв","Миколаївка","Микуличин","Мита","Михайлівка-Рубежівка","Могилів-Подільський","Могилівка","Могилівська","Мукачево","Мшанець","Міжгір'я","Міжгір’я","Невицьке","Непоротове","Нерубайське","Нестюки","Нижня Рожанка","Нижні Ворота","Нижній Студений","Новий Кропивник","Новий Яр","Новомиколаївка","Новосілки","Нові Безрадичі","Ніжиловичі","Оболоння","Обухівка","Озерське","Оноківці","Опака","Орявчик","Орів","Остер","Осій","Павлівка","Папірня","Перемишляни","Перехресне","Петрушки","Пилипець","Плав'я","Подобовець","Полтава","Поляна","Поляниця","Проців","Путила","Підлуби","Підліски","Раківець","Ременів","Ржищів","Рибне","Рибник","Родатичі","Розлуч","Розтоки","Рокитне","Романівка","Ромашки","Рудківці","Рудне","Руська","Рівня","Річка","Самушин","Сасівка","Селятинська сільська громада","Сенечів","Середнє","Синяк","Скнилів","Сколе","Славське","Славсько","Собич","Сокільники","Солочин","Соснове","Спас","Ставне","Стадники","Стайки","Старі Петрівці","Стебний","Страдч","Субіч","Сурсько-Литовське","Сусково","Сухий Потік","Суховоля","Східниця","Татарів","Тернавка","Тетерівка","Товщів","Толокунь","Труханів","Туринка","Тухля","Тюдів","Ужгород","Уклин","Уляники","Урич","Устеріки","Ферма","Фортунатівка","Хащованя","Хвильово-Сорочин","Хмільна","Холодне","Хорови","Хоросно","Хрещатик","Царичанка","Цитуля","Черетів","Черешенька","Чмирівка","Чорний Потік","Шаян","Широка Гребля","Шкло","Шляхтинці","Шоломинь","Шпитьки","Щітки","Яблуниця","Яблунів","Яворів","Яремче","Ясногородка","Ясіня","Яцьки","вул. Лісова"]
 
+leads:
+  what_this_is: >-
+    Places found on Google Maps within 40 km of Lviv that are NOT in the cottages list
+    and are NOT yet on the board. Each has a name, a pin, and usually a Google rating and
+    a phone — but no price, no capacity, no amenities and no photographs, because Google
+    does not publish those and the places have not been visited.
+  what_to_do_with_them: >-
+    This is the highest-value work available. Take a lead, find its own site or listing,
+    and return a full entry in the cottages schema above, with source.url pointing at
+    whatever you found. Apply the same quality bar — several of these are hotels or
+    campsites rather than whole-house stays, and should be reported back as unsuitable
+    rather than added.
+  found_by: "Google Maps keyword sweep, 2026-08-04"
+  count: 18
+  entries:
+    - name: Котедж Загадка Карпат
+      lat: 49.8313224
+      lng: 24.0285448
+      distance_km: 1
+      google_rating: 5
+      google_reviews: 1
+      phone: +380972672113
+      google_category: Bed & Breakfast
+      maps: "https://www.google.com/maps/search/?api=1&query=49.8313224,24.0285448"
+    - name: Заміський котедж
+      lat: 49.8352114
+      lng: 23.9963919
+      distance_km: 2
+      google_rating: null
+      google_reviews: null
+      phone: null
+      google_category: Котедж
+      maps: "https://www.google.com/maps/search/?api=1&query=49.8352114,23.9963919"
+    - name: Relax House
+      lat: 49.82
+      lng: 24.05
+      distance_km: 3
+      google_rating: null
+      google_reviews: null
+      phone: null
+      google_category: Будинок
+      maps: "https://www.google.com/maps/search/?api=1&query=49.82,24.05"
+    - name: Будиночки (кемпінг)
+      lat: 49.8824938
+      lng: 24.011718
+      distance_km: 5
+      google_rating: 4.5
+      google_reviews: 4
+      phone: null
+      google_category: Кемпінг
+      maps: "https://www.google.com/maps/search/?api=1&query=49.8824938,24.011718"
+    - name: Лісна Котеджі
+      lat: 49.7822231
+      lng: 24.0501199
+      distance_km: 7
+      google_rating: 4.2
+      google_reviews: 24
+      phone: +380673131978
+      google_category: Котедж
+      maps: "https://www.google.com/maps/search/?api=1&query=49.7822231,24.0501199"
+    - name: Готельно-відпочинковий комплекс "Тартак Резорт"
+      lat: 49.7915125
+      lng: 24.1087434
+      distance_km: 8
+      google_rating: null
+      google_reviews: null
+      phone: null
+      google_category: Комплекс
+      maps: "https://www.google.com/maps/search/?api=1&query=49.7915125,24.1087434"
+    - name: Котеджі "Капітель" Львів
+      lat: 49.7523519
+      lng: 23.9985175
+      distance_km: 10
+      google_rating: 4.1
+      google_reviews: 64
+      phone: +380986675577
+      google_category: Котеджі
+      maps: "https://www.google.com/maps/search/?api=1&query=49.7523519,23.9985175"
+    - name: "\"Дім Оверко\" — котедж з басейном, чаном, сауною"
+      lat: 49.7946473
+      lng: 24.1662315
+      distance_km: 11
+      google_rating: 4.7
+      google_reviews: 61
+      phone: +380673760000
+      google_category: Котедж
+      maps: "https://www.google.com/maps/search/?api=1&query=49.7946473,24.1662315"
+    - name: Villa ZENKO
+      lat: 49.9103801
+      lng: 23.9292861
+      distance_km: 11
+      google_rating: 5
+      google_reviews: 134
+      phone: +380964070657
+      google_category: Вілла
+      maps: "https://www.google.com/maps/search/?api=1&query=49.9103801,23.9292861"
+    - name: Котеджі "In Garden"
+      lat: 49.9184872
+      lng: 23.9209412
+      distance_km: 12
+      google_rating: 4.7
+      google_reviews: 25
+      phone: +380964160170
+      google_category: Котеджі
+      maps: "https://www.google.com/maps/search/?api=1&query=49.9184872,23.9209412"
+    - name: SOHO PARK — будинки з басейном, сауною, хамамом
+      lat: 49.8107585
+      lng: 24.193712
+      distance_km: 12
+      google_rating: null
+      google_reviews: null
+      phone: null
+      google_category: Оренда будинків
+      maps: "https://www.google.com/maps/search/?api=1&query=49.8107585,24.193712"
+    - name: PARK21
+      lat: 49.7228369
+      lng: 23.991301
+      distance_km: 13
+      google_rating: 4.4
+      google_reviews: 37
+      phone: +380973709916
+      google_category: Оренда котеджів
+      maps: "https://www.google.com/maps/search/?api=1&query=49.7228369,23.991301"
+    - name: Лісовий будинок — сауна біля Львова
+      lat: 49.9457393
+      lng: 23.9076345
+      distance_km: 15
+      google_rating: 5
+      google_reviews: 4
+      phone: +380676760141
+      google_category: Лісовий будинок
+      maps: "https://www.google.com/maps/search/?api=1&query=49.9457393,23.9076345"
+    - name: Літній будинок відпочинку "Дача"
+      lat: 49.8386705
+      lng: 23.799453
+      distance_km: 17
+      google_rating: 5
+      google_reviews: 18
+      phone: +380631478657
+      google_category: Зона відпочинку
+      maps: "https://www.google.com/maps/search/?api=1&query=49.8386705,23.799453"
+    - name: Лісова перлина
+      lat: 49.79736
+      lng: 23.77531
+      distance_km: 19
+      google_rating: 4
+      google_reviews: 168
+      phone: +380689221899
+      google_category: Комплекс
+      maps: "https://www.google.com/maps/search/?api=1&query=49.79736,23.77531"
+    - name: Forest House
+      lat: 49.6365023
+      lng: 24.0193573
+      distance_km: 22
+      google_rating: 4.8
+      google_reviews: 359
+      phone: +380679639980
+      google_category: Комплекс з басейном
+      maps: "https://www.google.com/maps/search/?api=1&query=49.6365023,24.0193573"
+    - name: Котедж База-відпочинку Мостище
+      lat: 49.679756
+      lng: 24.3058881
+      distance_km: 27
+      google_rating: 4.9
+      google_reviews: 12
+      phone: +380983249440
+      google_category: Котедж
+      maps: "https://www.google.com/maps/search/?api=1&query=49.679756,24.3058881"
+    - name: Садиба "Замок Лева"
+      lat: 49.5963386
+      lng: 24.0390158
+      distance_km: 27
+      google_rating: null
+      google_reviews: null
+      phone: null
+      google_category: Садиба
+      maps: "https://www.google.com/maps/search/?api=1&query=49.5963386,24.0390158"
+
 cottages:
   - id: lisovyi-eko-budynok-sauna-na-drovakh-bilia-lvova-re12397
     name: Лісовий ЕКО будинок-сауна (на дровах) біля Львова
