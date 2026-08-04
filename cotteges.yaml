@@ -78,6 +78,17 @@ contributing:
     A YAML list under a "cottages:" key, entries shaped exactly like the schema above.
     Use null for anything the listing does not state. Never invent a price, a capacity or
     coordinates — an absent field is far more useful than a plausible guess.
+  id: >-
+    Leave id out. Ids are minted on ingest from the name, and a colliding id would
+    silently overwrite an existing place. Identify what you return by source.url.
+  status: >-
+    Everything you return is status "candidate". Only a phone call to the owner makes
+    something "verified", and that is not something you can do.
+  coordinates: >-
+    Take these from the listing's own map pin, not from a geocoded address. Several
+    sources geocode the estate agent's office, which puts a cottage in the middle of
+    Lviv. If the prose names a village that disagrees with the pin, say so in the entry
+    rather than picking one.
   already_scraped_sources: ["hutshub","olx","own_site","real_estate_lviv"]
   known_gaps: >-
     Бірки and Липники were named as target settlements but appear on none of the
