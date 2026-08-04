@@ -72,6 +72,12 @@
     lbImg.src = SRCS[at]
     lbRaw.href = SRCS[at]
     lbN.textContent = (at + 1) + ' / ' + SRCS.length
+    // show the true pixel size — these are published at source resolution, never
+    // upscaled, so a small number here means the listing itself only had that
+    lbImg.onload = () => {
+      lbN.textContent = (at + 1) + ' / ' + SRCS.length +
+        '  ·  ' + lbImg.naturalWidth + '×' + lbImg.naturalHeight
+    }
   }
   const open = (n) => { show(n); lb.hidden = false; document.body.style.overflow = 'hidden' }
   const close = () => { lb.hidden = true; document.body.style.overflow = '' }
