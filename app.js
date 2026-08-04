@@ -79,8 +79,11 @@ function visible() {
     if (type && l.type !== type) return false
     if (guests && (l.capacity?.guests ?? 0) < guests) return false
 
-    const price = l.price?.amount ?? 0
-    if (price < pmin || price > pmax) return false
+    // a lot with no published price can't honestly satisfy a price range —
+    // hide it as soon as either bound is set, rather than pretending it costs 0
+    const price = l.price?.amount || null
+    if (price == null) { if (pmin || pmax !== Infinity) return false }
+    else if (price < pmin || price > pmax) return false
 
     for (const a of picked) if (!l.amenities?.includes(a)) return false
 
@@ -93,16 +96,20 @@ function visible() {
   })
 }
 
+// unpriced lots sort to the bottom of both price orders — the default sort is price ↑,
+// and a missing price is not a cheap one
+const asc = (l) => l.price?.amount || 1e9
+const desc = (l) => l.price?.amount || -1
 const SORTS = {
-  'price-asc': (a, b) => (a.price?.amount ?? 1e9) - (b.price?.amount ?? 1e9),
-  'price-desc': (a, b) => (b.price?.amount ?? 0) - (a.price?.amount ?? 0),
+  'price-asc': (a, b) => asc(a) - asc(b),
+  'price-desc': (a, b) => desc(b) - desc(a),
   'guests-desc': (a, b) => (b.capacity?.guests ?? 0) - (a.capacity?.guests ?? 0),
   'dist-asc': (a, b) => (a.location?.distance_km ?? 1e9) - (b.location?.distance_km ?? 1e9),
   'rating-desc': (a, b) => (b.rating?.score ?? -1) - (a.rating?.score ?? -1),
   'ppg-asc': (a, b) => ppg(a) - ppg(b),
   name: (a, b) => a.name.localeCompare(b.name, 'uk'),
 }
-const ppg = (l) => (l.price?.amount ?? 1e9) / (l.capacity?.guests || 1)
+const ppg = (l) => (l.price?.amount || 1e9) / (l.capacity?.guests || 1)
 
 // 600+ cards at once is a lot of DOM and a lot of image requests; page them in
 const PAGE = 60
