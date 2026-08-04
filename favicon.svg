@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Котеджі біля Львова">
+  <!-- An A-frame: the shape most of the good places on this board actually are, and
+       about the only cabin silhouette that still reads at 16 px. Warm window against a
+       dark ground so it works in both light and dark browser chrome. -->
+  <rect width="64" height="64" rx="14" fill="#14130f"/>
+
+  <!-- pines, set wide so the cabin doesn't swallow them -->
+  <path d="M9 47 L12.5 33 L16 47 Z" fill="#2f6f4e"/>
+  <path d="M48 47 L51.5 31 L55 47 Z" fill="#2f6f4e"/>
+
+  <!-- the cabin -->
+  <path d="M32 10 L48 47 H16 Z" fill="#7bbd97"/>
+  <!-- lit window, small and low so it reads as a light rather than a second roof -->
+  <path d="M32 30 L38 43 H26 Z" fill="#ffcc4d"/>
+
+  <!-- ground -->
+  <rect x="7" y="47" width="50" height="4" rx="2" fill="#3d4a42"/>
+</svg>
