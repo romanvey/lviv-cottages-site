@@ -221,3 +221,56 @@ body.lot dt { color: var(--dim); white-space: nowrap; }
   .lb button { width: 38px; height: 38px; font-size: 21px; }
   .lb-prev { left: 6px; } .lb-next { right: 6px; }
 }
+
+/* ---------- mobile first ----------
+   The board is mostly opened on a phone, standing in a kitchen arguing about where
+   to go. The filters used to fill the whole first screen, so you scrolled past 25
+   amenity chips before seeing a single cottage. They now collapse behind a summary
+   and only sit open by default once there is room for them. */
+.adv { border: 0; }
+.adv > summary {
+  list-style: none;
+  display: flex; align-items: center; gap: 8px;
+  padding: 9px 14px; margin-top: 2px;
+  font-size: 14px; color: var(--ink);
+  background: var(--bg); border: 1px solid var(--line); border-radius: 9px;
+  cursor: pointer; user-select: none;
+}
+.adv > summary::-webkit-details-marker { display: none; }
+.adv > summary::after { content: '▾'; margin-left: auto; color: var(--dim); transition: transform .15s; }
+.adv[open] > summary::after { transform: rotate(180deg); }
+.adv > summary:hover { border-color: var(--accent); color: var(--accent); }
+.advcount {
+  min-width: 20px; padding: 1px 7px; border-radius: 999px;
+  background: var(--accent); color: var(--bg);
+  font-size: 11.5px; font-weight: 700; text-align: center;
+}
+.advbody { display: flex; flex-wrap: wrap; align-items: flex-end; gap: 10px 14px; padding-top: 12px; }
+
+@media (max-width: 760px) {
+  body { padding-left: 12px; padding-right: 12px; }
+  header { padding: 18px 0 12px; }
+  .sub { display: none; }                       /* the distance filter says this already */
+  .filters { position: static; padding: 10px; margin-bottom: 16px; }
+  #q { flex-basis: 100%; }
+  .advbody label { flex: 1 1 calc(50% - 8px); } /* two controls per row, not one */
+  .advbody select, .advbody input { width: 100%; }
+  .range input, #guests { width: auto; flex: 1; }
+  #grid { grid-template-columns: 1fr; gap: 14px; }
+  /* a thumbed star needs a bigger target than a moused one */
+  .fav { width: 38px; height: 38px; font-size: 20px; }
+  .more { width: 100%; padding: 13px; }
+
+  body.lot { max-width: none; }
+  .lot-head { flex-wrap: wrap; gap: 8px; }
+  .acts { flex: 1 1 100%; }
+  .act { flex: 1; text-align: center; }
+  .hero { grid-template-columns: 1fr 1fr; gap: 4px; }
+  .hero .shot:first-child { aspect-ratio: 4/3; }
+  body.lot dl { grid-template-columns: 1fr; gap: 2px 0; }
+  body.lot dt { margin-top: 10px; font-size: 12px; text-transform: uppercase; letter-spacing: .04em; }
+}
+
+@media (max-width: 400px) {
+  .chip { font-size: 12.5px; padding: 5px 10px; }  /* still ≥32px tall to tap */
+}

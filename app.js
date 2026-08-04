@@ -127,6 +127,7 @@ function render(reset = true) {
   $('#more').hidden = list.length <= shown
   $('#more').textContent = `показати ще ${Math.max(0, Math.min(PAGE, list.length - shown))}`
   grid.innerHTML = page.map(card).join('')
+  countActive()
 }
 
 // a lot whose price or capacity looks wrong must LOOK wrong — otherwise a stale
@@ -205,6 +206,23 @@ addEventListener('storage', (e) => {
   favs = readFavs()
   render(false)
 })
+
+// filters start open on a wide screen and closed on a phone, and the summary carries
+// a count so a collapsed panel can never hide an active filter from you
+const adv = $('#adv')
+adv.open = matchMedia('(min-width: 761px)').matches
+function countActive() {
+  let n = picked.size
+  for (const id of ['#pmin', '#pmax', '#guests']) if ($(id).value) n++
+  if ($('#dist').value !== '100') n++
+  if ($('#type').value) n++
+  if ($('#status').value !== 'live') n++
+  if ($('#sort').value !== 'price-asc') n++
+  if ($('#onlyfav').getAttribute('aria-pressed') === 'true') n++
+  const badge = $('#advcount')
+  badge.hidden = n === 0
+  badge.textContent = n
+}
 
 $('#amenities').addEventListener('click', (e) => {
   const b = e.target.closest('.chip')

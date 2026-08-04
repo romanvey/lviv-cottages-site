@@ -22,56 +22,61 @@
 <div class="filters">
   <input id="q" type="search" placeholder="пошук: назва, село, нотатки…">
 
-  <label>ціна за ніч
-    <span class="range">
-      <input id="pmin" type="number" placeholder="від" step="500" min="0">
-      <input id="pmax" type="number" placeholder="до" step="500" min="0">
-    </span>
-  </label>
-
-  <label>гостей від
-    <input id="guests" type="number" placeholder="будь-скільки" min="1" step="1">
-  </label>
-
-  <label>не далі ніж
-    <select id="dist">
-      <option value="25">25 км</option>
-      <option value="45">45 км</option>
-      <option value="70">70 км</option>
-      <option value="100" selected>100 км</option>
-      <option value="150">150 км</option>
-      <option value="">будь-де (вся Україна)</option>
-    </select>
-  </label>
-
-  <label>тип
-    <select id="type"><option value="">усі</option></select>
-  </label>
-
-  <label>статус
-    <select id="status">
-      <option value="live">актуальні</option>
-      <option value="verified">перевірені</option>
-      <option value="candidate">кандидати</option>
-      <option value="">усі</option>
-    </select>
-  </label>
-
-  <label>сортувати
-    <select id="sort">
-      <option value="price-asc">ціна ↑</option>
-      <option value="price-desc">ціна ↓</option>
-      <option value="guests-desc">гостей ↓</option>
-      <option value="dist-asc">ближче до Львова</option>
-      <option value="rating-desc">рейтинг ↓</option>
-      <option value="ppg-asc">ціна на гостя ↑</option>
-      <option value="name">назва</option>
-    </select>
-  </label>
-
-  <div id="amenities" class="chips"></div>
-  <button id="onlyfav" class="chip fav-filter" aria-pressed="false">★ тільки обране</button>
-  <button id="reset" class="reset">скинути</button>
+  <details id="adv" class="adv">
+    <summary><span>фільтри</span><span id="advcount" class="advcount" hidden></span></summary>
+    <div class="advbody">
+    <label>ціна за ніч
+      <span class="range">
+        <input id="pmin" type="number" placeholder="від" step="500" min="0">
+        <input id="pmax" type="number" placeholder="до" step="500" min="0">
+      </span>
+    </label>
+  
+    <label>гостей від
+      <input id="guests" type="number" placeholder="будь-скільки" min="1" step="1">
+    </label>
+  
+    <label>не далі ніж
+      <select id="dist">
+        <option value="25">25 км</option>
+        <option value="45">45 км</option>
+        <option value="70">70 км</option>
+        <option value="100" selected>100 км</option>
+        <option value="150">150 км</option>
+        <option value="">будь-де (вся Україна)</option>
+      </select>
+    </label>
+  
+    <label>тип
+      <select id="type"><option value="">усі</option></select>
+    </label>
+  
+    <label>статус
+      <select id="status">
+        <option value="live">актуальні</option>
+        <option value="verified">перевірені</option>
+        <option value="candidate">кандидати</option>
+        <option value="">усі</option>
+      </select>
+    </label>
+  
+    <label>сортувати
+      <select id="sort">
+        <option value="price-asc">ціна ↑</option>
+        <option value="price-desc">ціна ↓</option>
+        <option value="guests-desc">гостей ↓</option>
+        <option value="dist-asc">ближче до Львова</option>
+        <option value="rating-desc">рейтинг ↓</option>
+        <option value="ppg-asc">ціна на гостя ↑</option>
+        <option value="name">назва</option>
+      </select>
+    </label>
+  
+    <div id="amenities" class="chips"></div>
+    <button id="onlyfav" class="chip fav-filter" aria-pressed="false">★ тільки обране</button>
+    <button id="reset" class="reset">скинути</button>
+    </div>
+  </details>
 </div>
 
 <main id="grid"></main>
