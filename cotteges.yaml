@@ -99,9 +99,9 @@ contributing:
 leads:
   what_this_is: >-
     Places found on Google Maps within 40 km of Lviv that are NOT in the cottages list
-    and are NOT yet on the board. Each has a name, a pin, and usually a Google rating and
-    a phone — but no price, no capacity, no amenities and no photographs, because Google
-    does not publish those and the places have not been visited.
+    and are NOT yet on the board. Each has a name, a pin and usually a Google rating — but
+    no price, no capacity, no amenities and no photographs, because Google does not
+    publish those and the places have not been visited. Follow the maps link for contacts.
   what_to_do_with_them: >-
     This is the highest-value work available. Take a lead, find its own site or listing,
     and return a full entry in the cottages schema above, with source.url pointing at
@@ -117,7 +117,6 @@ leads:
       distance_km: 1
       google_rating: 5
       google_reviews: 1
-      phone: +380972672113
       google_category: Bed & Breakfast
       maps: "https://www.google.com/maps/search/?api=1&query=49.8313224,24.0285448"
     - name: Заміський котедж
@@ -126,7 +125,6 @@ leads:
       distance_km: 2
       google_rating: null
       google_reviews: null
-      phone: null
       google_category: Котедж
       maps: "https://www.google.com/maps/search/?api=1&query=49.8352114,23.9963919"
     - name: Relax House
@@ -135,7 +133,6 @@ leads:
       distance_km: 3
       google_rating: null
       google_reviews: null
-      phone: null
       google_category: Будинок
       maps: "https://www.google.com/maps/search/?api=1&query=49.82,24.05"
     - name: Будиночки (кемпінг)
@@ -144,7 +141,6 @@ leads:
       distance_km: 5
       google_rating: 4.5
       google_reviews: 4
-      phone: null
       google_category: Кемпінг
       maps: "https://www.google.com/maps/search/?api=1&query=49.8824938,24.011718"
     - name: Лісна Котеджі
@@ -153,7 +149,6 @@ leads:
       distance_km: 7
       google_rating: 4.2
       google_reviews: 24
-      phone: +380673131978
       google_category: Котедж
       maps: "https://www.google.com/maps/search/?api=1&query=49.7822231,24.0501199"
     - name: Готельно-відпочинковий комплекс "Тартак Резорт"
@@ -162,7 +157,6 @@ leads:
       distance_km: 8
       google_rating: null
       google_reviews: null
-      phone: null
       google_category: Комплекс
       maps: "https://www.google.com/maps/search/?api=1&query=49.7915125,24.1087434"
     - name: Котеджі "Капітель" Львів
@@ -171,7 +165,6 @@ leads:
       distance_km: 10
       google_rating: 4.1
       google_reviews: 64
-      phone: +380986675577
       google_category: Котеджі
       maps: "https://www.google.com/maps/search/?api=1&query=49.7523519,23.9985175"
     - name: SOHO PARK — будинки з басейном, сауною, хамамом
@@ -180,7 +173,6 @@ leads:
       distance_km: 12
       google_rating: null
       google_reviews: null
-      phone: null
       google_category: Оренда будинків
       maps: "https://www.google.com/maps/search/?api=1&query=49.8107585,24.193712"
     - name: Лісовий будинок — сауна біля Львова
@@ -189,7 +181,6 @@ leads:
       distance_km: 15
       google_rating: 5
       google_reviews: 4
-      phone: +380676760141
       google_category: Лісовий будинок
       maps: "https://www.google.com/maps/search/?api=1&query=49.9457393,23.9076345"
     - name: Лісова перлина
@@ -198,7 +189,6 @@ leads:
       distance_km: 19
       google_rating: 4
       google_reviews: 168
-      phone: +380689221899
       google_category: Комплекс
       maps: "https://www.google.com/maps/search/?api=1&query=49.79736,23.77531"
     - name: Котедж База-відпочинку Мостище
@@ -207,7 +197,6 @@ leads:
       distance_km: 27
       google_rating: 4.9
       google_reviews: 12
-      phone: +380983249440
       google_category: Котедж
       maps: "https://www.google.com/maps/search/?api=1&query=49.679756,24.3058881"
     - name: Садиба "Замок Лева"
@@ -216,7 +205,6 @@ leads:
       distance_km: 27
       google_rating: null
       google_reviews: null
-      phone: null
       google_category: Садиба
       maps: "https://www.google.com/maps/search/?api=1&query=49.5963386,24.0390158"
 
@@ -897,12 +885,12 @@ cottages:
       lng: 23.9292861
       distance_km: 11
     capacity:
-      guests: 0
+      guests: null
       bedrooms: null
       beds: null
       bathrooms: null
     price:
-      amount: 0
+      amount: null
       weekend_amount: null
       min_nights: 1
       extras: ціна не з’ясована — Google Maps її не публікує
@@ -933,12 +921,12 @@ cottages:
       lng: 24.1662315
       distance_km: 11
     capacity:
-      guests: 0
+      guests: null
       bedrooms: null
       beds: null
       bathrooms: null
     price:
-      amount: 0
+      amount: null
       weekend_amount: null
       min_nights: 1
       extras: ціна не з’ясована — Google Maps її не публікує
@@ -1093,12 +1081,12 @@ cottages:
       lng: 23.9209412
       distance_km: 12
     capacity:
-      guests: 0
+      guests: null
       bedrooms: null
       beds: null
       bathrooms: null
     price:
-      amount: 0
+      amount: null
       weekend_amount: null
       min_nights: 1
       extras: ціна не з’ясована — Google Maps її не публікує
@@ -1175,12 +1163,12 @@ cottages:
       lng: 23.991301
       distance_km: 13
     capacity:
-      guests: 0
+      guests: null
       bedrooms: null
       beds: null
       bathrooms: null
     price:
-      amount: 0
+      amount: null
       weekend_amount: null
       min_nights: 1
       extras: ціна не з’ясована — Google Maps її не публікує
@@ -1545,12 +1533,12 @@ cottages:
       lng: 23.799453
       distance_km: 17
     capacity:
-      guests: 0
+      guests: null
       bedrooms: null
       beds: null
       bathrooms: null
     price:
-      amount: 0
+      amount: null
       weekend_amount: null
       min_nights: 1
       extras: ціна не з’ясована — Google Maps її не публікує
@@ -2092,12 +2080,12 @@ cottages:
       lng: 24.0193573
       distance_km: 22
     capacity:
-      guests: 0
+      guests: null
       bedrooms: null
       beds: null
       bathrooms: null
     price:
-      amount: 0
+      amount: null
       weekend_amount: null
       min_nights: 1
       extras: ціна не з’ясована — Google Maps її не публікує
