@@ -4,6 +4,10 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Котеджі біля Львова</title>
+<meta name="description" content="Котеджі, A-frame і будиночки з чаном біля Львова — фото, ціни за ніч, ціни на Новий рік, мапа.">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Котеджі біля Львова">
+<meta property="og:description" content="Котеджі, A-frame і будиночки з чаном біля Львова — фото, ціни, мапа.">
 <link rel="icon" href="favicon.svg" type="image/svg+xml">
 <link rel="alternate icon" href="favicon-32.png" sizes="32x32">
 <link rel="apple-touch-icon" href="apple-touch-icon.png">
@@ -12,30 +16,39 @@
 </head>
 <body>
 
-<header>
-  <h1>Котеджі біля Львова</h1>
-  <p id="count">завантаження…</p>
-  <p class="sub">Відстань — по прямій від центру Львова. За замовчуванням показані лише ті, що
-    в межах 100 км; постав «будь-де», щоб побачити всю базу по Україні.</p>
+<header class="top">
+  <a class="brand" href="./">
+    <img src="favicon.svg" alt="" width="40" height="40">
+    <span>
+      <h1>Котеджі біля Львова</h1>
+      <span id="stats" class="stats">завантаження…</span>
+    </span>
+  </a>
+  <div class="views" role="group" aria-label="Вигляд">
+    <button data-view="grid" aria-pressed="true">▦ <span>Сітка</span></button>
+    <button data-view="map" aria-pressed="false">⌖ <span>Мапа</span></button>
+  </div>
 </header>
 
 <div class="filters">
-  <input id="q" type="search" placeholder="пошук: назва, село, нотатки…">
+  <div class="bar">
+    <input id="q" type="search" placeholder="Пошук: назва, село, район…" aria-label="Пошук">
+    <details id="adv" class="adv">
+      <summary><span>Фільтри</span><span id="advcount" class="advcount" hidden></span></summary>
+    </details>
+  </div>
+  <div id="quick" class="quick" aria-label="Швидкий вибір"></div>
 
-  <details id="adv" class="adv">
-    <summary><span>фільтри</span><span id="advcount" class="advcount" hidden></span></summary>
-    <div class="advbody">
-    <label>ціна за ніч
+  <div id="advbody" class="advbody" hidden>
+    <label>ціна за ніч, ₴
       <span class="range">
-        <input id="pmin" type="number" placeholder="від" step="500" min="0">
-        <input id="pmax" type="number" placeholder="до" step="500" min="0">
+        <input id="pmin" type="number" placeholder="від" step="500" min="0" inputmode="numeric">
+        <input id="pmax" type="number" placeholder="до" step="500" min="0" inputmode="numeric">
       </span>
     </label>
-  
     <label>гостей від
-      <input id="guests" type="number" placeholder="будь-скільки" min="1" step="1">
+      <input id="guests" type="number" placeholder="будь-скільки" min="1" step="1" inputmode="numeric">
     </label>
-  
     <label>не далі ніж
       <select id="dist">
         <option value="25">25 км</option>
@@ -46,44 +59,57 @@
         <option value="">будь-де (вся Україна)</option>
       </select>
     </label>
-  
     <label>тип
       <select id="type"><option value="">усі</option></select>
     </label>
-  
     <label>статус
       <select id="status">
         <option value="live">актуальні</option>
         <option value="verified">перевірені</option>
         <option value="candidate">кандидати</option>
-        <option value="">усі</option>
+        <option value="">усі, разом зі знятими</option>
       </select>
     </label>
-  
-    <label>сортувати
-      <select id="sort">
-        <option value="price-asc">ціна ↑</option>
-        <option value="price-desc">ціна ↓</option>
-        <option value="guests-desc">гостей ↓</option>
-        <option value="dist-asc">ближче до Львова</option>
-        <option value="rating-desc">рейтинг ↓</option>
-        <option value="ppg-asc">ціна на гостя ↑</option>
-        <option value="name">назва</option>
-      </select>
-    </label>
-  
-    <div id="amenities" class="chips"></div>
-    <button id="onlyfav" class="chip fav-filter" aria-pressed="false">★ тільки обране</button>
-    <button id="reset" class="reset">скинути</button>
+    <div class="amen">
+      <div id="amenities" class="chips"></div>
+      <button id="moreamen" class="chip ghost" aria-expanded="false">ще…</button>
     </div>
-  </details>
+    <div class="advfoot">
+      <button id="onlyfav" class="chip fav-filter" aria-pressed="false">★ тільки обране</button>
+      <button id="reset" class="reset">скинути все</button>
+    </div>
+  </div>
+</div>
+
+<div class="listhead">
+  <p id="count" aria-live="polite"></p>
+  <label class="sortby">сортувати
+    <select id="sort">
+      <option value="rec">рекомендовані</option>
+      <option value="price-asc">ціна ↑</option>
+      <option value="price-desc">ціна ↓</option>
+      <option value="dist-asc">ближче до Львова</option>
+      <option value="rating-desc">рейтинг</option>
+      <option value="guests-desc">гостей ↓</option>
+      <option value="ppg-asc">ціна на гостя ↑</option>
+      <option value="new">нові спершу</option>
+    </select>
+  </label>
 </div>
 
 <main id="grid"></main>
-<p id="empty" hidden>Нічого не знайдено.</p>
+<div id="map" class="map" hidden></div>
+<p id="empty" hidden>Нічого не знайдено. <button id="reset2" class="linkish">Скинути фільтри</button></p>
 <button id="more" class="more" hidden>показати ще</button>
 
-
+<footer class="foot">
+  <p id="fresh"></p>
+  <p>Усі місця — <b>кандидати</b>: зібрані з публічних оголошень (здебільшого hutshub.com),
+    ціни й наявність ніхто не підтверджував дзвінком. Перш ніж бронювати — телефонуй.
+    Відстань — по прямій від центру Львова.</p>
+  <p>Для агентів і скриптів: <a href="cotteges.yaml">cotteges.yaml</a> — увесь каталог зі схемою
+    та правилами, як додати нове місце.</p>
+</footer>
 
 <script src="config.js"></script>
 <script src="app.js"></script>
