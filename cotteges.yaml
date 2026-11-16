@@ -11,14 +11,14 @@
 meta:
   site: https://lviv-cottages.vercel.app
   generated: 2026-11-16
-  count: 423
+  count: 459
   centre: "Львів, пл. Ринок (49.839683, 24.029717)"
   distances_are: "straight-line km from that centre, not driving distance"
   currency: UAH
   price_means: "whole property per night, not per person"
-  within_25km: 55
-  within_45km: 66
-  within_100km: 107
+  within_25km: 73
+  within_45km: 91
+  within_100km: 133
   verified_by_phone: 0
   caveat: >-
     Nothing here has been confirmed with an owner. Prices and capacities are what the
@@ -98,7 +98,7 @@ contributing:
     Бірки and Липники were named as target settlements but appear on none of the
     platforms searched; anything there is likely Instagram- or Telegram-only. Coverage
     thins beyond 45 km from Lviv on the non-hutshub sources.
-  settlements_covered: ["Korchyn","Unnamed Road","Івано-Франкове","Івано-Франківська область","Івачів Горішній","Івачів Долішній","Ізки","Ільці","Ісаківці","Балико-Щучинка","Береги","Берегомет","Бережани","Брюховичі","Буковець","Васильків","Велика Бугаївка","Великі Мости","Вербовець","Верхня Рожанка","Верхнє Синьовидне","Верхній Ясенів","Верховина","Вигода","Виннички","Вишеньки","Вишка","Вишків","Вища Дубечня","Вовчий","Волосянка","Воля-Блажівська","Воропаїв","Ворохта","Вільшинки","Глібівка","Гнідин","Гонятичі","Городок","Гребенів","Григорівка","Гринів","Гукливий","Гута","Делятин","Дерев'янки","Деремезна","Дземброня","Дмитрушки","Добростани","Добрянка","Долинівка","Дубляни","Дубриничі","Жденієво","Жереб’ятин","Жовтанці","Жукин","Журавно","Забуяння","Забір'я","Завадка","Задебрі","Зазим'є","Залужжя","Залісці","Замагора","Зарваниця","Зашків","Здорівка","Зелена","Кам'янка","Кваси","Київ","Кладьківка","Кожухівка","Козьова","Коростів","Корчин","Красник","Красноілля","Красів","Кривопілля","Криворівня","Кропивник","Крушельниця","Крюківщина","Куликів","Куражин","Лавочне","Ластівці","Летня","Либохора","Липина","Личанка","Лопушанка-Хомина","Лопушна","Луцьк","Львів","Лютіж","Ліпляве","Ліс","Лісники","Лісопотік","Майдан","Мала Воля","Межирів","Мигове","Миколаїв","Миколаївка","Микуличин","Мита","Михайлівка-Рубежівка","Мшанець","Невицьке","Непоротове","Нестюки","Нижня Рожанка","Нижні Ворота","Новий Кропивник","Новомиколаївка","Новосілки","Ніжиловичі","Оболоння","Озерське","Орявчик","Орів","Остер","Павлівка","Папірня","Петрушки","Пилипець","Плав'я","Подобовець","Поляниця","Проців","Пустомити","Підгородці","Підліски","Підполоззя","Райнова","Раківець","Ременів","Ржищів","Рибне","Розділ","Розтоки","Рокитне","Ромашки","Рудківці","Рудне","Руська","Рівня","Річка","Самушин","Сасівка","Сенечів","Синяк","Скнилів","Сколе","Славське","Славсько","Сокільники","Солочин","Соснове","Спас","Ставне","Стадники","Стайки","Старий Мізунь","Старі Петрівці","Стебний","Страдч","Субіч","Сурсько-Литовське","Сухий Потік","Суховоля","Східниця","Татарів","Тернавка","Тетерівка","Товщів","Толокунь","Туринка","Тухля","Тюдів","Уклин","Урич","Устеріки","Ферма","Фортунатівка","Хащованя","Хвильово-Сорочин","Хмільна","Холодне","Хоросно","Хрещатик","Царичанка","Цитуля","Черетів","Чишки","Чмирівка","Шаян","Широка Гребля","Шкло","Шоломинь","Шпитьки","Щітки","Яблуниця","Яблунів","Яворів","Яремче","Ясногородка","Ясіня","Яцьки","вул. Лісова"]
+  settlements_covered: ["Korchyn","Unnamed Road","Івано-Франкове","Івано-Франківська область","Івачів Горішній","Івачів Долішній","Ізки","Ільці","Ісаківці","Балико-Щучинка","Бартатів","Береги","Берегомет","Бережани","Борщовичі","Братковичі","Брюховичі","Буковець","Васильків","Велика Бугаївка","Велике Колодно","Великий Глибочок","Великі Гаї","Великі Мости","Вербовець","Верхня Рожанка","Верхнє Синьовидне","Верхній Ясенів","Верховина","Вигода","Виннички","Вишеньки","Вишка","Вишків","Вища Дубечня","Вовчий","Волосянка","Воля-Блажівська","Воля-Гомулецька","Воропаїв","Ворохта","Вільшинки","Глібівка","Гнідин","Гонятичі","Городок","Гребенів","Григорівка","Гринів","Гукливий","Гута","Делятин","Дерев'янки","Деремезна","Дземброня","Дмитрушки","Добростани","Добрянка","Долинівка","Дубляни","Дубриничі","Дуброва","Жденієво","Жереб’ятин","Жовтанці","Жукин","Журавно","Забуяння","Забір'я","Завадка","Задебрі","Зазим'є","Залужжя","Залісці","Замагора","Зарваниця","Зашків","Здорівка","Зелена","Кам'янка","Кваси","Київ","Кладьківка","Кожухівка","Козьова","Коростів","Корчин","Красник","Красноілля","Красів","Кривопілля","Криворівня","Кропивник","Крушельниця","Крюківщина","Куликів","Куражин","Лавочне","Ластівці","Летня","Либохора","Липина","Личанка","Лопушанка-Хомина","Лопушна","Луцьк","Львів","Лютіж","Ліпляве","Ліс","Лісники","Лісопотік","Майдан","Мала Воля","Малі Грибовичі","Меденичі","Межирів","Мигове","Миколаїв","Миколаївка","Микуличин","Мита","Михайлівка-Рубежівка","Мшанець","Наварія","Невицьке","Непоротове","Нестюки","Нижня Рожанка","Нижні Ворота","Новий Кропивник","Новий Милятин","Новомиколаївка","Новосілки","Ніжиловичі","Оболоння","Озерське","Орявчик","Орів","Остер","Павлівка","Папірня","Петрушки","Пилипець","Плав'я","Подобовець","Поляна","Поляниця","Поршна","Проців","Пустомити","Підгородці","Підліски","Підполоззя","Райнова","Раківець","Ременів","Ржищів","Рибне","Розділ","Розтоки","Рокитне","Романівка","Ромашки","Рудківці","Рудне","Руська","Рівня","Річка","Самушин","Сасівка","Сенечів","Синяк","Скнилів","Сколе","Славське","Славсько","Сокільники","Солочин","Солуки","Соснове","Спас","Ставне","Стадники","Стайки","Стара Гута","Старий Мізунь","Старі Петрівці","Стебний","Страдч","Субіч","Сурсько-Литовське","Сухий Потік","Суховоля","Східниця","Татарів","Тернавка","Тетерівка","Товщів","Толокунь","Туринка","Тухля","Тюдів","Уклин","Урич","Устеріки","Ферма","Фортунатівка","Хащованя","Хвильово-Сорочин","Хмільна","Холодне","Хоросно","Хрещатик","Царичанка","Цитуля","Черетів","Чишки","Чмирівка","Шаян","Широка Гребля","Шкло","Шоломинь","Шпитьки","Щітки","Яблуниця","Яблунів","Яворів","Яремче","Ясногородка","Ясіня","Яцьки","вул. Лісова"]
 
 leads:
   what_this_is: >-
@@ -871,6 +871,140 @@ cottages:
       platform: olx
       url: "https://www.olx.ua/d/uk/obyavlenie/lake-time-house-budinok-podobovo-chan-banya-IDVLoOw.html"
       scraped_at: 2026-11-17
+  - id: volya-resort
+    name: Volya.Resort
+    type: complex
+    status: candidate
+    url: "https://lviv-cottages.vercel.app/lot/volya-resort.html"
+    description: "ВАЖЛИВО! ВІЛЬНІ ДАТИ / БРОНЮВАННЯ ЧЕРЕЗ INSTAGRAM: VOLYA_RESORT Запрошуємо на відпочинок у Volya.Resort — сучасний відпочинковий комплекс з 4-ма котеджами, розташований у затишному місці для комфортного релаксу з сім’єю або компанією. На території комплексу працює 4 котеджі: • 2 трикутні A-frame котеджі • 2 менший котедж Розміщення: • A-frame котеджі — комфортно для 6 осіб, максимальне розміщення до 8–10 гостей • Менший котедж — ідеальний для 2–4 осіб, максимальне розміщення до 4–6 гостей На території комплексу: • чан на дровах • сауна • великі відкриті тераси • зона відпочинку • затишна, закр"
+    location:
+      settlement: Малі Грибовичі
+      area: Львівська область
+      lat: 49.91547
+      lng: 23.98895
+      distance_km: 9
+    capacity:
+      guests: 6
+      bedrooms: 2
+      beds: null
+      bathrooms: null
+    price:
+      amount: 5500
+      weekend_amount: null
+      new_year_amount: null
+      previous_amount: null
+      updated_at: 2026-11-17
+      min_nights: 1
+      extras: 4 котеджі; чан і сауна; бронювання через instagram volya_resort
+    amenities:
+      - chan
+      - sauna
+      - terrace
+    rating: null
+    images:
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/volya-resort/01.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/volya-resort/02.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/volya-resort/03.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/volya-resort/04.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/volya-resort/05.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/volya-resort/06.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/volya-resort/07.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/volya-resort/08.webp"
+    source:
+      platform: olx
+      url: "https://www.olx.ua/d/uk/obyavlenie/podobova-orenda-kotedzhu-m-lvv-volya-resort-z-chanom-ta-saunoyu-IDZyRvB.html"
+      scraped_at: 2026-11-17
+  - id: sknyliv-chan-house
+    name: Будиночок з чаном у Скнилові
+    type: cottage
+    status: candidate
+    url: "https://lviv-cottages.vercel.app/lot/sknyliv-chan-house.html"
+    description: "Запрошуємо на відпочинок у затишний будиночок у с. Скнилів, Львівська область — чудове місце для відпочинку з коханою людиною, друзями чи сім’єю До 6 осіб з ночівлею До 10–12 осіб без ночівлі У будиночку є все необхідне для комфортного відпочинку: -Відкритий басейн з підігрівом — входить у вартість проживання -Чан за бажанням -Мангальна зона -Велика альтанка -Кухня з необхідним обладнанням -Душова кімната -Резервне живлення Спальні місця: Загальна кімната з двоспальними матрацами з обох сторін та розкладним диваном. ВАРТІСТЬ ОРЕНДИ: Для 2 осіб: Будні дні — 3500 грн Вихідні дні — 4500 грн Для 4"
+    location:
+      settlement: Скнилів
+      area: Львівська область
+      lat: 49.81642
+      lng: 23.91152
+      distance_km: 9
+    capacity:
+      guests: 6
+      bedrooms: 1
+      beds: null
+      bathrooms: null
+    price:
+      amount: 3500
+      weekend_amount: 4500
+      new_year_amount: null
+      previous_amount: null
+      updated_at: 2026-11-17
+      min_nights: 1
+      extras: "за двох: будні 3 500, вихідні 4 500; за чотирьох: 5 000 / 6 500; чан 2 500–3 500"
+    amenities:
+      - chan
+      - pool
+      - bbq
+      - kitchen
+    rating: null
+    images:
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/sknyliv-chan-house/01.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/sknyliv-chan-house/02.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/sknyliv-chan-house/03.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/sknyliv-chan-house/04.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/sknyliv-chan-house/05.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/sknyliv-chan-house/06.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/sknyliv-chan-house/07.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/sknyliv-chan-house/08.webp"
+    source:
+      platform: olx
+      url: "https://www.olx.ua/d/uk/obyavlenie/orenda-budinku-blya-lvova-chan-mangalna-zona-ID11dCDV.html"
+      scraped_at: 2026-11-17
+  - id: obriy-house
+    name: Obriy House
+    type: cottage
+    status: candidate
+    url: "https://lviv-cottages.vercel.app/lot/obriy-house.html"
+    description: "Наш інстаграм: obriy_house ⠀ - 20 хв від Львова - Відкрита тераса 45м2 з видом на озеро - Доставка їжі - Декор будинку для Ваших свят - PS4, BBQ зона та інші розваги ⠀ Obriy House- це котеджу з усіма зручностями, що забезпечать комфорт під час вашого…"
+    location:
+      settlement: Воля-Гомулецька
+      area: Жовківський район
+      lat: 49.92757049999999
+      lng: 23.9988063
+      distance_km: 10
+    capacity:
+      guests: 6
+      bedrooms: 2
+      beds: null
+      bathrooms: null
+    price:
+      amount: 5000
+      weekend_amount: null
+      new_year_amount: null
+      previous_amount: 3500
+      updated_at: 2026-11-17
+      min_nights: 1
+      extras: баня і чан, тераса 45 м² з видом на озеро, PS5; бронювання через instagram obriy_resort
+    amenities:
+      - parking
+      - bbq
+      - terrace
+      - garden
+      - lake_view
+      - forest
+      - pets_allowed
+    rating: null
+    images:
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/obriy-house/01.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/obriy-house/02.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/obriy-house/03.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/obriy-house/04.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/obriy-house/05.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/obriy-house/06.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/obriy-house/07.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/obriy-house/08.webp"
+    source:
+      platform: olx
+      url: "https://www.olx.ua/d/uk/obyavlenie/orenda-kotedzhu-u-m-lvv-obriy-resort-IDWyhIg.html"
+      scraped_at: 2026-11-17
   - id: cozy-chalet
     name: Cozy Chalet
     type: cottage
@@ -1183,6 +1317,51 @@ cottages:
       platform: google_maps
       url: "https://www.google.com/maps/search/?api=1&query=49.9184872,23.9209412"
       scraped_at: 2026-08-04
+  - id: lafa-villa-moon
+    name: Villa Moon (LAFA)
+    type: house
+    status: candidate
+    url: "https://lviv-cottages.vercel.app/lot/lafa-villa-moon.html"
+    description: "Комплекс LAFA Instagram: lafa.lviv Villa Moon (5 км від Львова, ~20 хв до центру) Про будинок Villa Moon — двоповерховий котедж з атмосферним банкетним залом, теплим басейном і сауною. Формат підходить для днів народжень, сімейних свят, корпоративів, вечірок з друзями та виїзних подій з розміщенням гостей на ніч. Планування 1-й поверх: банкетний зал (до 30 осіб банкет, до 60 осіб фуршет), вихід на терасу, санвузол, зона бару/обслуговування. 2-й поверх: п’ять готельних номерів на 14 осіб (2+2+2+4+4), санвузли. Що є на локації теплий басейн 3×6 з підігрівом сауна на дровах для компанії до 14 осі"
+    location:
+      settlement: Виннички
+      area: Львівська область
+      lat: 49.77103
+      lng: 24.16111
+      distance_km: 12
+    capacity:
+      guests: 14
+      bedrooms: 5
+      beds: null
+      bathrooms: null
+    price:
+      amount: 17000
+      weekend_amount: null
+      new_year_amount: null
+      previous_amount: null
+      updated_at: 2026-11-17
+      min_nights: 1
+      extras: банкетна зала до 30 осіб, теплий басейн, сауна; ночівля до 14; застава 5 000
+    amenities:
+      - sauna
+      - pool
+      - terrace
+      - wifi
+      - lake_view
+    rating: null
+    images:
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/lafa-villa-moon/01.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/lafa-villa-moon/02.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/lafa-villa-moon/03.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/lafa-villa-moon/04.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/lafa-villa-moon/05.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/lafa-villa-moon/06.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/lafa-villa-moon/07.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/lafa-villa-moon/08.webp"
+    source:
+      platform: olx
+      url: "https://www.olx.ua/d/uk/obyavlenie/budinok-podobovo-dlya-svyatkuvannya-30-osb-tepliy-baseyn-5km-do-lvova-IDWfvTd.html"
+      scraped_at: 2026-11-17
   - id: symbiohouse
     name: Symbio.house
     type: cottage
@@ -1279,6 +1458,414 @@ cottages:
       platform: google_maps
       url: "https://www.google.com/maps/search/?api=1&query=49.7228369,23.991301"
       scraped_at: 2026-08-04
+  - id: soluky-river-banya
+    name: Будиночок з банею біля річки
+    type: cottage
+    status: candidate
+    url: "https://lviv-cottages.vercel.app/lot/soluky-river-banya.html"
+    description: Пропонуємо спокійну місцевість біля річки та лісу , гарна природа . Лавандове міні поле. Мангал . Коні , корови , барани і решту звірів ))) гарний кіт та банда цікавих собак)) Маємо мангал . Величезну терасу . . БАСЕЙН., Баня!!! Подобово Будинок розраховано на 2-4 особи (диван і ліжко) ДОБА - 3000-4000 грн Окремо БАНЯ НА ДРОВАХ 4 особи (з будинком ) ДЕНЬ з16.00-22.00 Ціна 6000грн Разом баня +домік на добу Доба 8000грн Новий рік відсвяткувати Погодинно для груп !!!літній період!!! Можна проводити невеликі групи з йоги або якогось тренінгу на вулиці -маєм велику терасу на 6- 8 ковриків Ціна за 4
+    location:
+      settlement: Солуки
+      area: Львівська область
+      lat: 49.87
+      lng: 23.85861
+      distance_km: 13
+    capacity:
+      guests: 4
+      bedrooms: 2
+      beds: null
+      bathrooms: null
+    price:
+      amount: 3000
+      weekend_amount: 4000
+      new_year_amount: null
+      previous_amount: null
+      updated_at: 2026-11-17
+      min_nights: 1
+      extras: доба 3 000–4 000; баня на дровах окремо; басейн, велика тераса
+    amenities:
+      - sauna
+      - pool
+      - bbq
+      - terrace
+      - lake_view
+      - forest
+      - pets_allowed
+    rating: null
+    images:
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/soluky-river-banya/01.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/soluky-river-banya/02.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/soluky-river-banya/03.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/soluky-river-banya/04.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/soluky-river-banya/05.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/soluky-river-banya/06.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/soluky-river-banya/07.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/soluky-river-banya/08.webp"
+    source:
+      platform: olx
+      url: "https://www.olx.ua/d/uk/obyavlenie/budinok-za-mstom-sauna-podobova-orenda-lokatsya-dlya-yogi-noviy-rk-ID10FiHj.html"
+      scraped_at: 2026-11-17
+  - id: solange-peony-house
+    name: Solange Peony House
+    type: house
+    status: candidate
+    url: "https://lviv-cottages.vercel.app/lot/solange-peony-house.html"
+    description: "В Новорічну ніч будинок заброньований!!! Здається авторський будинок 100м² з усіма зручностями, що забезпечать комфорт під час вашого перебування. Розташований на відстані ~15 хв їзди від Львова, на закритій приватній території. Є альтанка, басейн 10м , зона багаття (барбекю), мангал. На території– чан на дровах для купання просто неба. Три спальні кімнати, кухня-студія з розкладним диваном (2 додаткових спальних місця при потребі), всього до 10 спальних місць. Заїзд о 14:00, виїзд о 12:00. Вартість оренди (до 6 осіб): пн–чт – 8 000 грн/доба, пт–нд – 10 000 грн/доба За кожну наступну особу ( п"
+    location:
+      settlement: Наварія
+      area: Львівська область
+      lat: 49.74798
+      lng: 23.92406
+      distance_km: 13
+    capacity:
+      guests: 6
+      bedrooms: 3
+      beds: null
+      bathrooms: null
+    price:
+      amount: 8000
+      weekend_amount: 10000
+      new_year_amount: null
+      previous_amount: null
+      updated_at: 2026-11-17
+      min_nights: 1
+      extras: авторський будинок 100 м² на закритій території; пн–чт 8 000, пт–нд 10 000; чан 2 500
+    amenities:
+      - chan
+      - pool
+      - bbq
+      - kitchen
+      - lake_view
+    rating: null
+    images:
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/solange-peony-house/01.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/solange-peony-house/02.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/solange-peony-house/03.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/solange-peony-house/04.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/solange-peony-house/05.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/solange-peony-house/06.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/solange-peony-house/07.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/solange-peony-house/08.webp"
+    source:
+      platform: olx
+      url: "https://www.olx.ua/d/uk/obyavlenie/podobova-orenda-avtorskogo-budinochka-z-baseynom-ta-chanom-IDWqyis.html"
+      scraped_at: 2026-11-17
+  - id: shooter-pool-house
+    name: Shooter — будинок з басейном
+    type: house
+    status: candidate
+    url: "https://lviv-cottages.vercel.app/lot/shooter-pool-house.html"
+    description: Будинки для святкувань і відпочинку в оренду подобово Вартість оренди – Неділя– четвер 8000 грн за добу – П’ятниця 10000 грн за добу - Субота -13000 грн за добу – Вказана ціна до 10 осіб – За кожного наступного гостя доплата 500 грн Пропонуємо комфортні будинки з басейном у сосновому лісі 9км від Львова у с. Суховоля в сосновому лісі, на березі озера шутер, Ідеальний варіант для святкувань, корпоративів, вечірок, сімейного відпочинку та особливих подій. Також можливе проведення камерних весіль гендер-паті та інших важливих заходів у затишній атмосфері. Основні характеристики – Вміщує 8-10 осіб
+    location:
+      settlement: Суховоля
+      area: Львівська область
+      lat: 49.83134
+      lng: 23.84005
+      distance_km: 14
+    capacity:
+      guests: 10
+      bedrooms: 3
+      beds: null
+      bathrooms: null
+    price:
+      amount: 8000
+      weekend_amount: 13000
+      new_year_amount: null
+      previous_amount: null
+      updated_at: 2026-11-17
+      min_nights: 1
+      extras: нд–чт 8 000 · пт 10 000 · сб 13 000; до 10 гостей, далі +500
+    amenities:
+      - pool
+      - bbq
+      - wifi
+      - lake_view
+      - forest
+      - backup_power
+    rating: null
+    images:
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/shooter-pool-house/01.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/shooter-pool-house/02.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/shooter-pool-house/03.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/shooter-pool-house/04.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/shooter-pool-house/05.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/shooter-pool-house/06.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/shooter-pool-house/07.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/shooter-pool-house/08.webp"
+    source:
+      platform: olx
+      url: "https://www.olx.ua/d/uk/obyavlenie/orenda-budinku-podobovo-baseyn-dlya-svyatkuvan-ta-vdpochinku-shoter-ID10sUc1.html"
+      scraped_at: 2026-11-17
+  - id: le-chalet-sukhovolia
+    name: Le Chalet
+    type: complex
+    status: candidate
+    url: "https://lviv-cottages.vercel.app/lot/le-chalet-sukhovolia.html"
+    description: "НОВИЙ РІК ЗАЙНЯТО Вас вітає локація для святкувань та відпочинку Le Chalet. Будинки розташовані за 9 км від міста Львів у селі Суховоля на березі озера Шутер. Маємо два шале, кожне з яких оснащене 24 посадковими та 10 спальними місцями. На території є басейн. У будиночках є все необхідне: телевізор зі смарт тв, електрична плита, мікрохвильова піч, холодильник та морозильна камера, електрочайник, посуд, столові прибори, склянки та бокали, рушники. Також в будинках є просторі тераси та мангали. Пн-Чт 9 000 грн до 10 осіб Пт-Нд 10 500 грн до 10 осіб Кожна наступна особа +500 грн За деталями зверт"
+    location:
+      settlement: Суховоля
+      area: Львівська область
+      lat: 49.83134
+      lng: 23.84005
+      distance_km: 14
+    capacity:
+      guests: 10
+      bedrooms: 4
+      beds: null
+      bathrooms: null
+    price:
+      amount: 9000
+      weekend_amount: 10500
+      new_year_amount: null
+      previous_amount: null
+      updated_at: 2026-11-17
+      min_nights: 1
+      extras: два шале на березі озера Шутер, у кожному 10 спальних і 24 посадкових місця
+    amenities:
+      - pool
+      - bbq
+      - terrace
+      - lake_view
+    rating: null
+    images:
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/le-chalet-sukhovolia/01.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/le-chalet-sukhovolia/02.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/le-chalet-sukhovolia/03.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/le-chalet-sukhovolia/04.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/le-chalet-sukhovolia/05.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/le-chalet-sukhovolia/06.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/le-chalet-sukhovolia/07.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/le-chalet-sukhovolia/08.webp"
+    source:
+      platform: olx
+      url: "https://www.olx.ua/d/uk/obyavlenie/orenda-budinku-podobovo-dlya-svyatkuvan-ta-vdpochinku-IDVUFoj.html"
+      scraped_at: 2026-11-17
+  - id: wood-house-lisopotik
+    name: Wood House
+    type: cottage
+    status: candidate
+    url: "https://lviv-cottages.vercel.app/lot/wood-house-lisopotik.html"
+    description: ‼️Новий Рік 31.12 та 01.01. Вже заброньовано‼️ Wood House -стильний будиночок для відпочинку лише за 20хв від Львова Тут картинка із Pinterest оживає, кожен куточок створений для комфорту, аби ви почувались як вдома ! Детальніше по вказаному номеру Надішлемо нашу Instagram сторінку •Чан (доба/безліміт) •Кальян•Басейн •Зона BBQ•Доставка їжі •Трансфер•Послуга повний холодильник •Послуга святкування ваших міні подій Безконтактне поселення/виселення Приватна, закрита територія, де тільки ви Парко місця для авто на території (вміщає біля 3 авто) Пляшечка смачного вина у подарунок Ми pet friendly, з
+    location:
+      settlement: Лісопотік
+      area: Львівська область
+      lat: 49.92795
+      lng: 23.89776
+      distance_km: 14
+    capacity:
+      guests: 4
+      bedrooms: 2
+      beds: null
+      bathrooms: null
+    price:
+      amount: 3800
+      weekend_amount: 4800
+      new_year_amount: null
+      previous_amount: null
+      updated_at: 2026-11-17
+      min_nights: 1
+      extras: ціна за двох, кожна наступна особа +500; чан 2 600 за добу
+    amenities:
+      - chan
+      - pool
+      - bbq
+      - playground
+      - forest
+    rating: null
+    images:
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/wood-house-lisopotik/01.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/wood-house-lisopotik/02.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/wood-house-lisopotik/03.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/wood-house-lisopotik/04.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/wood-house-lisopotik/05.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/wood-house-lisopotik/06.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/wood-house-lisopotik/07.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/wood-house-lisopotik/08.webp"
+    source:
+      platform: olx
+      url: "https://www.olx.ua/d/uk/obyavlenie/podobova-orenda-budinku-dlya-vdpochinku-ID1007yq.html"
+      scraped_at: 2026-11-17
+  - id: pine-paradise-house
+    name: Pine Paradise House
+    type: cottage
+    status: candidate
+    url: "https://lviv-cottages.vercel.app/lot/pine-paradise-house.html"
+    description: "pine.paradise_house - наш інстаграм Чарівний будиночок мрії, який подарує вам незабутні враження від відпочинку,всього крок від Львова. До ваших послуг: Безконтактне поселення. Територія закритого типу Дві комфортні двомісні спальні + диван в вітальні (спальних місць -6) Простора кухня оснащена всім необхідним (посуд, побутова техніка, пральна машина, телевізор, кондиціонер) Ванна кімната( душова кабіна, засоби гігієни, рушники, підігрів підлоги) Велика крита тераса з красивим краєвидом , дозволяє сидіти за столом в будь-яку погоду, дощ добавить тільки романтики (стіл, стільці, терасні штори) "
+    location:
+      settlement: Лісопотік
+      area: Львівська область
+      lat: 49.92795
+      lng: 23.89776
+      distance_km: 14
+    capacity:
+      guests: 4
+      bedrooms: 3
+      beds: null
+      bathrooms: null
+    price:
+      amount: 4000
+      weekend_amount: null
+      new_year_amount: null
+      previous_amount: null
+      updated_at: 2026-11-17
+      min_nights: 1
+      extras: дві двомісні спальні, безконтактне заселення, закрита територія
+    amenities:
+      - chan
+      - pool
+      - bbq
+      - terrace
+      - kitchen
+    rating: null
+    images:
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/pine-paradise-house/01.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/pine-paradise-house/02.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/pine-paradise-house/03.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/pine-paradise-house/04.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/pine-paradise-house/05.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/pine-paradise-house/06.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/pine-paradise-house/07.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/pine-paradise-house/08.webp"
+    source:
+      platform: olx
+      url: "https://www.olx.ua/d/uk/obyavlenie/orenda-budinku-podobova-ta-dovgotrivala-IDVVUVY.html"
+      scraped_at: 2026-11-17
+  - id: forest-lake-house-porshna
+    name: Forest Lake House
+    type: cottage
+    status: candidate
+    url: "https://lviv-cottages.vercel.app/lot/forest-lake-house-porshna.html"
+    description: "Новий Рік вже заброньований ВАЖЛИВО! ВІЛЬНІ ДАТИ / БРОНЮВАННЯ ЧЕРЕЗ INSTAGRAM: Forest_lake_house Запрошуємо на відпочинок у Forest.lake.house — сучасний відпочинковий будиночок, розташований у затишному місці для комфортного релаксу з сім’єю або компанією поряд з озером та лісом, в с.Наварія. Розміщення: • Будиночок — комфортно для 2-6 осіб. Дві комфортні двомісні спальні + диван в вітальні (спальних місць -6) На території будиночку: • велика відкрита тераса • велика альтанка • зона відпочинку біля костра • затишна, закрита територія Переваги: • безконтактне поселення • закрита територія • під"
+    location:
+      settlement: Поршна
+      area: Львівська область
+      lat: 49.72352
+      lng: 23.94925
+      distance_km: 14
+    capacity:
+      guests: 6
+      bedrooms: 2
+      beds: null
+      bathrooms: null
+    price:
+      amount: 3500
+      weekend_amount: null
+      new_year_amount: null
+      previous_amount: null
+      updated_at: 2026-11-17
+      min_nights: 1
+      extras: бронювання через instagram forest_lake_house
+    amenities:
+      - terrace
+      - lake_view
+      - forest
+    rating: null
+    images:
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/forest-lake-house-porshna/01.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/forest-lake-house-porshna/02.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/forest-lake-house-porshna/03.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/forest-lake-house-porshna/04.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/forest-lake-house-porshna/05.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/forest-lake-house-porshna/06.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/forest-lake-house-porshna/07.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/forest-lake-house-porshna/08.webp"
+    source:
+      platform: olx
+      url: "https://www.olx.ua/d/uk/obyavlenie/podobova-orenda-budinku-dlya-vdpochinku-ID11y8Vv.html"
+      scraped_at: 2026-11-17
+  - id: shooter-forest-cabin
+    name: Shooter — лісовий будиночок
+    type: cottage
+    status: candidate
+    url: "https://lviv-cottages.vercel.app/lot/shooter-forest-cabin.html"
+    description: "Будиночок для відпочинку серед природи подобово Затишний сучасний будиночок у мальовничому лісовому місці — ідеальний варіант для спокійного відпочинку на природі, романтичної поїздки або відпочинку з друзями. У будиночку: * велике двоспальне ліжко; * панорамні вікна з видом на ліс та озеро * кондиціонер; * опалення; * повністю облаштована ванна кімната з душем; * Wi-Fi; * затишна тераса; * все необхідне для комфортного проживання. На території: комплексу Shooter Dim * приватна зелена територія серед соснового лісу; * зона для відпочинку; * мангал; * місце для вогнища ; * зручні шезлонги та кр"
+    location:
+      settlement: Суховоля
+      area: Львівська область
+      lat: 49.83134
+      lng: 23.84005
+      distance_km: 14
+    capacity:
+      guests: 4
+      bedrooms: 2
+      beds: null
+      bathrooms: null
+    price:
+      amount: 3000
+      weekend_amount: 4000
+      new_year_amount: null
+      previous_amount: null
+      updated_at: 2026-11-17
+      min_nights: 1
+      extras: пн–чт 3 000, пт–нд 4 000; сосновий ліс
+    amenities:
+      - bbq
+      - terrace
+      - wifi
+      - lake_view
+      - forest
+    rating: null
+    images:
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/shooter-forest-cabin/01.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/shooter-forest-cabin/02.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/shooter-forest-cabin/03.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/shooter-forest-cabin/04.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/shooter-forest-cabin/05.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/shooter-forest-cabin/06.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/shooter-forest-cabin/07.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/shooter-forest-cabin/08.webp"
+    source:
+      platform: olx
+      url: "https://www.olx.ua/d/uk/obyavlenie/budinok-orenda-2-4-osobi-dlya-vdpochinku-svyatkuvannya-v-sosnovomu-ls-podobovo-ID11oIRp.html"
+      scraped_at: 2026-11-17
+  - id: bartativ-sauna-chan-pool
+    name: Будинок з сауною, чаном і басейном
+    type: house
+    status: candidate
+    url: "https://lviv-cottages.vercel.app/lot/bartativ-sauna-chan-pool.html"
+    description: "НОВИЙ РІК ЗАЙНЯТО !!!Житловий будинок подобово з сауною,чаном та басейном. Вартість : (понеділок-четвер)-8000грн.Пʼятниця-12000грн.Субота-14000.Неділя-10000грн.Вартість розрахована до 12 людей,кожна наступна людина +500 гр..Сауна 2000 гр(за 5 год) та чан 2000 (за 3 год).Час поселення з 15:00, час виселення до 11:00. Для святкувань урочистих подій,або просто прекрасного відпочинку з друзями в лісі.Умови бронювання : завдаток-страховий платіж 4000гр повертається підчас скасування бронювання (не пізніше як за 14 днів до дати бронювання) або підчас виселення. Площа будинку 250м.кв,зона барбекю, са"
+    location:
+      settlement: Бартатів
+      area: Львівська область
+      lat: 49.8003
+      lng: 23.82082
+      distance_km: 16
+    capacity:
+      guests: 12
+      bedrooms: 6
+      beds: null
+      bathrooms: null
+    price:
+      amount: 8000
+      weekend_amount: 14000
+      new_year_amount: null
+      previous_amount: null
+      updated_at: 2026-11-17
+      min_nights: 1
+      extras: пн–чт 8 000 · пт 12 000 · сб 14 000 · нд 10 000; до 12 гостей, далі +500
+    amenities:
+      - chan
+      - sauna
+      - pool
+      - bbq
+      - kitchen
+      - forest
+      - backup_power
+      - pets_allowed
+    rating: null
+    images:
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/bartativ-sauna-chan-pool/01.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/bartativ-sauna-chan-pool/02.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/bartativ-sauna-chan-pool/03.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/bartativ-sauna-chan-pool/04.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/bartativ-sauna-chan-pool/05.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/bartativ-sauna-chan-pool/06.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/bartativ-sauna-chan-pool/07.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/bartativ-sauna-chan-pool/08.webp"
+    source:
+      platform: olx
+      url: "https://www.olx.ua/d/uk/obyavlenie/orenda-budinku-podobovo-z-saunoyu-ta-chanom-noviy-rk-zaynyato-IDSdCh6.html"
+      scraped_at: 2026-11-17
   - id: mistsyna-shchaslyvykh-liudei
     name: Місцина Щасливих Людей
     type: cottage
@@ -1761,6 +2348,55 @@ cottages:
     source:
       platform: hutshub
       url: "https://hutshub.com/complexes/6aa1a0edb4e9f48af4f34a18/kompleks-mistsyna"
+      scraped_at: 2026-11-17
+  - id: cloudframe-1
+    name: CloudFrame 1
+    type: a-frame
+    status: candidate
+    url: "https://lviv-cottages.vercel.app/lot/cloudframe-1.html"
+    description: Будиночок розташований неподалік Львова на пагорбі з панорамним видом на ліс. Поруч(до 1.5км) знаходяться озера з рибалкою, сосновий ліс.
+    location:
+      settlement: Борщовичі
+      area: Пустомитівський район
+      lat: 49.86327259999999
+      lng: 24.2777054
+      distance_km: 18
+    capacity:
+      guests: 4
+      bedrooms: 2
+      beds: null
+      bathrooms: null
+    price:
+      amount: 4900
+      weekend_amount: 5900
+      new_year_amount: null
+      previous_amount: 3500
+      updated_at: 2026-11-17
+      min_nights: 1
+      extras: пн–чт 4 900 за двох, пт–нд 5 900; кожна наступна особа +500; Новий рік — 26 000 за добу, мінімум дві (уже зайнято)
+    amenities:
+      - ac
+      - wifi
+      - kitchen
+      - bbq
+      - terrace
+      - garden
+      - playground
+      - heating
+      - forest
+      - parking
+      - pets_allowed
+    rating: null
+    images:
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/cloudframe-1/01.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/cloudframe-1/02.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/cloudframe-1/03.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/cloudframe-1/04.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/cloudframe-1/05.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/cloudframe-1/06.webp"
+    source:
+      platform: olx
+      url: "https://www.olx.ua/d/uk/obyavlenie/orenda-budinochka-z-baseynom-kotedzh-blya-lvova-bazi-vdpochinku-IDVpXeE.html"
       scraped_at: 2026-11-17
   - id: grove-house
     name: Grove House
@@ -2274,6 +2910,98 @@ cottages:
       platform: google_maps
       url: "https://www.google.com/maps/search/?api=1&query=49.6365023,24.0193573"
       scraped_at: 2026-08-04
+  - id: khorosno-chan-heated-pool
+    name: Будиночок з чаном і басейном з підігрівом
+    type: cottage
+    status: candidate
+    url: "https://lviv-cottages.vercel.app/lot/khorosno-chan-heated-pool.html"
+    description: Затишний будинок для 2-6 осіб. Розташований у с.Хоросно 20км від Львова. Зручний доїзд асфальтованою дорогою. Закрита власна територія. Навколо ліс. У будиночку дві окремі спальні. Простора кухня-вітальня з каміном. Зона барбекю. Будиночок обладнаний всім необхідним посудом та приладдям для мангалу. Чан за додаткову плату. Ціна оренди залежить від дня тижня та кількості осіб. Ми в соцмережах Khorosno.House
+    location:
+      settlement: Хоросно
+      area: Львівська область
+      lat: 49.64525
+      lng: 23.97307
+      distance_km: 22
+    capacity:
+      guests: 6
+      bedrooms: 2
+      beds: null
+      bathrooms: null
+    price:
+      amount: 3500
+      weekend_amount: null
+      new_year_amount: null
+      previous_amount: null
+      updated_at: 2026-11-17
+      min_nights: 1
+      extras: дві спальні, кухня-вітальня з каміном, закрита територія біля лісу
+    amenities:
+      - chan
+      - bbq
+      - fireplace
+      - kitchen
+      - forest
+    rating: null
+    images:
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/khorosno-chan-heated-pool/01.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/khorosno-chan-heated-pool/02.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/khorosno-chan-heated-pool/03.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/khorosno-chan-heated-pool/04.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/khorosno-chan-heated-pool/05.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/khorosno-chan-heated-pool/06.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/khorosno-chan-heated-pool/07.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/khorosno-chan-heated-pool/08.webp"
+    source:
+      platform: olx
+      url: "https://www.olx.ua/d/uk/obyavlenie/orenda-budinku-z-chanom-ta-baseynom-z-pdgrvom-podobovo-IDVZHWs.html"
+      scraped_at: 2026-11-17
+  - id: evergreen-khorosno
+    name: Evergreen
+    type: cottage
+    status: candidate
+    url: "https://lviv-cottages.vercel.app/lot/evergreen-khorosno.html"
+    description: "Новий рік заброньовано! Здається заміський будиночок \"EVERGREEN\" в сосновому лісі недалеко від Львова (17 км по Стрийській трасі, 15хв від \"Ашану\", 5 хв. від Раковця) в с. Хоросно. Подобово. Площа будинку - 40 кв.м- кухня- студія і спальня. Є все необхідне для відпочинку: 4 спальних місця, електроплита, холодильник, електрочайник, мікрохвильовка, Smart TV, посуд, фен, рушники, постільна білизна, тепла підлога, всі вигоди, wi-fi, проектор. Також є велика тераса з чудовим краєвидом, мангал(+дрова безкоштовно) та лаунж-зона з кострищем, щоб насолоджуватись красою природи та спокоєм. А ще у нас є "
+    location:
+      settlement: Хоросно
+      area: Львівська область
+      lat: 49.64525
+      lng: 23.97307
+      distance_km: 22
+    capacity:
+      guests: 4
+      bedrooms: 2
+      beds: null
+      bathrooms: null
+    price:
+      amount: 2500
+      weekend_amount: 4000
+      new_year_amount: null
+      previous_amount: null
+      updated_at: 2026-11-17
+      min_nights: 1
+      extras: "за двох: пн–чт 2 500, пт–нд 3 000; за 3–4: 3 000 / 4 000; сосновий ліс, 40 м²"
+    amenities:
+      - sauna
+      - bbq
+      - terrace
+      - kitchen
+      - wifi
+      - projector
+      - forest
+    rating: null
+    images:
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/evergreen-khorosno/01.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/evergreen-khorosno/02.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/evergreen-khorosno/03.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/evergreen-khorosno/04.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/evergreen-khorosno/05.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/evergreen-khorosno/06.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/evergreen-khorosno/07.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/evergreen-khorosno/08.webp"
+    source:
+      platform: olx
+      url: "https://www.olx.ua/d/uk/obyavlenie/orenda-budinku-kotedzhu-podobovo-IDTBtEw.html"
+      scraped_at: 2026-11-17
   - id: maidan-house
     name: Майдан house
     type: cottage
@@ -2657,6 +3385,99 @@ cottages:
       platform: hutshub
       url: "https://hutshub.com/complexes/69720a1d4c671cf680510736/kompleks-sadyba-zatyshok"
       scraped_at: 2026-11-17
+  - id: maidan-chan-house
+    name: Будиночок з чаном-джакузі
+    type: cottage
+    status: candidate
+    url: "https://lviv-cottages.vercel.app/lot/maidan-chan-house.html"
+    description: "Новий рік вже ЗАБРОНЬОВАНО. Здається будиночок з джакузі-чаном, 22км від Львова в с. Майдай. Поряд ліс, річка, гори, озера. Вартість проживання у будні дні пн-чт-нд 3500грн/доба для 2 осіб, 4500грн/доба для 4 осіб; вихідні дні пт-сб: бронювання у вихідні на дві доби 4700 грн/доба 2 осіб 6000грн/доба 4 осіб. Додатково можна замовити чан, 2500 грн на 6 год. Поселення з 15:00, виселення до 12:00. Швидше поселення за домовленістю. Edem_Lozhe- будиночок вирізняється неповторним авторським дизайном. Знаходиться 22 км біля Львова, на території с.Майдан яке славиться своєю красою та курортом Чарівні о"
+    location:
+      settlement: Майдан
+      area: Львівська область
+      lat: 50.00796
+      lng: 23.83918
+      distance_km: 23
+    capacity:
+      guests: 6
+      bedrooms: 3
+      beds: null
+      bathrooms: null
+    price:
+      amount: 3500
+      weekend_amount: 6000
+      new_year_amount: null
+      previous_amount: null
+      updated_at: 2026-11-17
+      min_nights: 1
+      extras: будні 3 500 за двох / 4 500 за чотирьох; пт–сб від 2 ночей 4 700 / 6 000; чан +2 500 за 6 год
+    amenities:
+      - chan
+      - bbq
+      - lake_view
+      - forest
+    rating: null
+    images:
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/maidan-chan-house/01.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/maidan-chan-house/02.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/maidan-chan-house/03.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/maidan-chan-house/04.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/maidan-chan-house/05.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/maidan-chan-house/06.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/maidan-chan-house/07.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/maidan-chan-house/08.webp"
+    source:
+      platform: olx
+      url: "https://www.olx.ua/d/uk/obyavlenie/orenda-podobova-budinok-apartementi-zhitlo-chan-lizh-maydan-blya-lvova-IDZGXh6.html"
+      scraped_at: 2026-11-17
+  - id: velyke-kolodno-a-frame-lake
+    name: A-frame біля приватного озера
+    type: a-frame
+    status: candidate
+    url: "https://lviv-cottages.vercel.app/lot/velyke-kolodno-a-frame-lake.html"
+    description: "НА НОВОРІЧНІ СВЯТА ЗАБРОНЬОВАНО!! Запрошуємо вас на незабутній релакс на приватній ЗАКРИТІЙ локації з чаном на травах, банею, приватним озером та контактним зоопарком. В селі Велике Колодно, що всього 20 км від Львова. Задум проекту - сімейний відпочинок за розумну вартість. Що вас чекає: - Проживання в будинку типу А-Фрейм (6+ місць) - Чан - Баня з ароматними оліями - Озеро для риболовлі. Пляж - Контактний міні-зоопарк для дітей (всі тваринки ручні. можна годувати) - Зона барбекю - Приватна закрита територія площею 2.5га. (БЕЗ ДОСТУПУ ЧУЖИХ ОСІБ). - Трансфер в межах 50км. (2-4 особи). - Wi-Fi"
+    location:
+      settlement: Велике Колодно
+      area: Львівська область
+      lat: 49.99075
+      lng: 24.24575
+      distance_km: 23
+    capacity:
+      guests: 12
+      bedrooms: 2
+      beds: null
+      bathrooms: null
+    price:
+      amount: 3000
+      weekend_amount: null
+      new_year_amount: null
+      previous_amount: null
+      updated_at: 2026-11-17
+      min_nights: 1
+      extras: чан на травах, баня, приватне озеро, риболовля, контактний зоопарк
+    amenities:
+      - chan
+      - sauna
+      - bbq
+      - terrace
+      - kitchen
+      - wifi
+      - parking
+      - lake_view
+      - pets_allowed
+    rating: null
+    images:
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/velyke-kolodno-a-frame-lake/01.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/velyke-kolodno-a-frame-lake/02.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/velyke-kolodno-a-frame-lake/03.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/velyke-kolodno-a-frame-lake/04.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/velyke-kolodno-a-frame-lake/05.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/velyke-kolodno-a-frame-lake/06.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/velyke-kolodno-a-frame-lake/07.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/velyke-kolodno-a-frame-lake/08.webp"
+    source:
+      platform: olx
+      url: "https://www.olx.ua/d/uk/obyavlenie/vdpochinok-blya-privatnogo-ozera-budinok-tipu-a-freym-chan-banya-altanki-ribolovlya-zvrinets-IDZPekw.html"
+      scraped_at: 2026-11-17
   - id: dykorosy
     name: Дикороси
     type: cottage
@@ -3036,6 +3857,50 @@ cottages:
       platform: real_estate_lviv
       url: "https://www.real-estate.lviv.ua/12470-%D0%B1%D1%83%D0%B4%D0%B8%D0%BD%D0%BE%D0%BA-%D0%BF%D0%BE%D0%B4%D0%BE%D0%B1%D0%BE%D0%B2%D0%BE-%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%BE%D0%BA-%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%BE%D1%86%D1%8C%D0%BA%D0%B8%D0%B9-.html"
       scraped_at: 2026-11-17
+  - id: lavinn-villa-country
+    name: Вілла Country (LAVinn)
+    type: house
+    status: candidate
+    url: "https://lviv-cottages.vercel.app/lot/lavinn-villa-country.html"
+    description: LAVinn.cottages в інстаграм Подобова оренда вілли в селі Поляна ( 30 км від Львова) Вілла «Кантрі»( 7 спалень, 3 санвузла, велика кухня-студія на 25-30 посадкових місць) У вартість проживання входить павільйон , барбекю зона з мангалом (дрова,решітка,шомпура, чаша для вогню) Шатро Також є чан-джакузі та приватний басейн ( у літній період) Вартість від 8000грн (також бувають акції в інстаграмі)
+    location:
+      settlement: Поляна
+      area: Львівська область
+      lat: 49.5882493
+      lng: 24.0604287
+      distance_km: 28
+    capacity:
+      guests: 6
+      bedrooms: 8
+      beds: null
+      bathrooms: null
+    price:
+      amount: 8000
+      weekend_amount: null
+      new_year_amount: null
+      previous_amount: null
+      updated_at: 2026-11-17
+      min_nights: 1
+      extras: 7 спалень, 3 санвузли; павільйон, барбекю, басейн влітку
+    amenities:
+      - chan
+      - pool
+      - bbq
+      - kitchen
+    rating: null
+    images:
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/lavinn-villa-country/01.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/lavinn-villa-country/02.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/lavinn-villa-country/03.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/lavinn-villa-country/04.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/lavinn-villa-country/05.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/lavinn-villa-country/06.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/lavinn-villa-country/07.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/lavinn-villa-country/08.webp"
+    source:
+      platform: olx
+      url: "https://www.olx.ua/d/uk/obyavlenie/orenda-budinku-vlla-contry-ID11Bktw.html"
+      scraped_at: 2026-11-17
   - id: alpakio-house
     name: Alpakio House
     type: house
@@ -3089,6 +3954,54 @@ cottages:
     source:
       platform: hutshub
       url: "https://hutshub.com/complexes/6941d911ccdab1d9ff1cb8ea/kompleks-alpakio-house"
+      scraped_at: 2026-11-17
+  - id: stavok-gorodok
+    name: StavOK
+    type: complex
+    status: candidate
+    url: "https://lviv-cottages.vercel.app/lot/stavok-gorodok.html"
+    description: Десь між лісом і небом — місце, де тиша говорить голосніше за слова. A-frame серед природи. Віддалено від усіх — максимально близько до себе. StavOK Gorodok — твоя точка спокою. База відпочинку «StavOK» пропонує комфортний будиночок для 4-ох. Розташований серед природи, що дає можливість насолодитись один одним чи провести час в колі рідних, друзів. Велика тераса щоб насолодитись ароматною кавою та неповторними краєвидами, мангальна зона для затишних посиденьок. Для обігріву в холодну пору - будинок облаштований потужним кондиціонером. На кухні - індукційна плита, мікрохвильова піч, електро ча
+    location:
+      settlement: Городок
+      area: Львівська область
+      lat: 49.78236
+      lng: 23.63813
+      distance_km: 29
+    capacity:
+      guests: 4
+      bedrooms: 2
+      beds: null
+      bathrooms: null
+    price:
+      amount: 3000
+      weekend_amount: null
+      new_year_amount: null
+      previous_amount: null
+      updated_at: 2026-11-17
+      min_nights: 1
+      extras: A-frame і будиночки-куби на базі відпочинку; ціна за A-frame
+    amenities:
+      - chan
+      - sauna
+      - bbq
+      - terrace
+      - kitchen
+      - parking
+      - playground
+      - forest
+    rating: null
+    images:
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/stavok-gorodok/01.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/stavok-gorodok/02.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/stavok-gorodok/03.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/stavok-gorodok/04.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/stavok-gorodok/05.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/stavok-gorodok/06.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/stavok-gorodok/07.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/stavok-gorodok/08.webp"
+    source:
+      platform: olx
+      url: "https://www.olx.ua/d/uk/obyavlenie/budinok-dlya-vdpochinku-stavok-a-frame-podobovo-IDZemTT.html"
       scraped_at: 2026-11-17
   - id: white-horvat
     name: White Horvat
@@ -3261,6 +4174,97 @@ cottages:
       platform: hutshub
       url: "https://hutshub.com/complexes/681dbfedbcf795352ab54dc8/kompleks-hytte-lviv"
       scraped_at: 2026-11-17
+  - id: bratkovychi-banya-house
+    name: Будинок з банею для великої компанії
+    type: house
+    status: candidate
+    url: "https://lviv-cottages.vercel.app/lot/bratkovychi-banya-house.html"
+    description: "Дорогі Друзі, запрошуємо Вас незабутньо провести час і повністю оздоровити своє тіло та на мить забути про , нудні сірі будні 1. Великий затишний Будинчок + Мега Крута і Дика Банька-Лазня на дровах на велику компанію від 8-15чол.відро Водоспад. Великий Зал на 15 чол 2. 4 кімнати з двоспальними ліжками та великий зал; 3. 8-9 спальних місць; 4. Повноцінна кухня зі всім необхідним посудом та аксесуарами; 5. WI-Fi покриття; 6. Телевізор на 72 дюймів; 7. Простора вітальня з панорамними вікнами, що відкривають красивий вид на озеро і круту повністю освітлену територію; 8. Душові, та ванна кімната з "
+    location:
+      settlement: Братковичі
+      area: Львівська область
+      lat: 49.7885
+      lng: 23.58771
+      distance_km: 32
+    capacity:
+      guests: 15
+      bedrooms: 5
+      beds: null
+      bathrooms: null
+    price:
+      amount: 10000
+      weekend_amount: null
+      new_year_amount: null
+      previous_amount: null
+      updated_at: 2026-11-17
+      min_nights: 1
+      extras: баня-лазня на дровах; для компаній 8–15 осіб
+    amenities:
+      - chan
+      - sauna
+      - kitchen
+      - wifi
+      - lake_view
+    rating: null
+    images:
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/bratkovychi-banya-house/01.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/bratkovychi-banya-house/02.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/bratkovychi-banya-house/03.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/bratkovychi-banya-house/04.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/bratkovychi-banya-house/05.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/bratkovychi-banya-house/06.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/bratkovychi-banya-house/07.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/bratkovychi-banya-house/08.webp"
+    source:
+      platform: olx
+      url: "https://www.olx.ua/d/uk/obyavlenie/zatishniy-budinochok-dlya-svyatkuvan-komfortnogo-vdpochinku-na-veliku-kompanyu-banka-ID11je4W.html"
+      scraped_at: 2026-11-17
+  - id: horodok-pond-house
+    name: Будиночок на ставку з сауною
+    type: cottage
+    status: candidate
+    url: "https://lviv-cottages.vercel.app/lot/horodok-pond-house.html"
+    description: Щирі вітання!! Хочемо запропонувати Вам Буничок для відпочинку та святкувань зі всіма зручностями на 4х осіб, який знаходиться 25км від Львова в м. Городок в дуже гарному, та затишному місці на березі красивого ставка з великою терасою на якій Ви можете насолоджуватись запашною кавою та читанням книг. Також є Сауна, Карпатський Чан, Мангал Кімнати для святкувань а також для відпочинку велика ванна кімната, ТВ, Інтернет, наявність посуду... власна велика парковка з камерами спостереження!
+    location:
+      settlement: Городок
+      area: Львівська область
+      lat: 49.7885
+      lng: 23.58771
+      distance_km: 32
+    capacity:
+      guests: 4
+      bedrooms: 2
+      beds: null
+      bathrooms: null
+    price:
+      amount: 3500
+      weekend_amount: null
+      new_year_amount: null
+      previous_amount: null
+      updated_at: 2026-11-17
+      min_nights: 1
+      extras: сауна, чан, велика тераса над ставом
+    amenities:
+      - chan
+      - sauna
+      - bbq
+      - terrace
+      - wifi
+      - parking
+    rating: null
+    images:
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/horodok-pond-house/01.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/horodok-pond-house/02.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/horodok-pond-house/03.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/horodok-pond-house/04.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/horodok-pond-house/05.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/horodok-pond-house/06.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/horodok-pond-house/07.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/horodok-pond-house/08.webp"
+    source:
+      platform: olx
+      url: "https://www.olx.ua/d/uk/obyavlenie/zatishniy-budinochok-dlya-orendi-vdpochinku-ta-svyatkuvan-sauna-chan-ID11kSHm.html"
+      scraped_at: 2026-11-17
   - id: villa-spekotnyi-rai
     name: Вілла Спекотний Рай
     type: cottage
@@ -3316,6 +4320,47 @@ cottages:
     source:
       platform: hutshub
       url: "https://hutshub.com/complexes/69afddf4f8612ff470e574c5/kompleks-villa-spekotnyi-rai"
+      scraped_at: 2026-11-17
+  - id: hlukhovel
+    name: Глуховель
+    type: cottage
+    status: candidate
+    url: "https://lviv-cottages.vercel.app/lot/hlukhovel.html"
+    description: Залиште міський шум, нескінченні справи . Глуховель — це затишний будинок серед природи в 30 км від Львова , де можна по-справжньому видихнути, відновити сили та провести незабутній час із тими, хто вам дорогий. Тут не потрібно нікуди поспішати. Лише свіже повітря, тиша, мальовничі краєвиди та комфортний простір, який повністю належить вам. Чому варто обрати Глуховель? * До 6 гостей — ідеальний варіант для романтичної втечі, сімейного відпочинку або подорожі з друзями. * Повна приватність — жодних сусідів поруч і зайвого шуму. Увесь будинок та територія — тільки для вас. * Відпочинок на природ
+    location:
+      settlement: Миколаїв
+      area: Львівська область
+      lat: 49.52547
+      lng: 23.98016
+      distance_km: 35
+    capacity:
+      guests: 6
+      bedrooms: 2
+      beds: null
+      bathrooms: null
+    price:
+      amount: 5000
+      weekend_amount: null
+      new_year_amount: null
+      previous_amount: null
+      updated_at: 2026-11-17
+      min_nights: 1
+      extras: чан-джакузі
+    amenities:
+      - chan
+    rating: null
+    images:
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/hlukhovel/01.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/hlukhovel/02.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/hlukhovel/03.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/hlukhovel/04.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/hlukhovel/05.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/hlukhovel/06.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/hlukhovel/07.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/hlukhovel/08.webp"
+    source:
+      platform: olx
+      url: "https://www.olx.ua/d/uk/obyavlenie/orenda-budinku-chan-dzhakuz-vdpochinok-ID117hMn.html"
       scraped_at: 2026-11-17
   - id: riznotravia
     name: РІЗНОтрав'я
@@ -3377,6 +4422,98 @@ cottages:
     source:
       platform: hutshub
       url: "https://hutshub.com/complexes/663a0288a619e76b6cd6c853/kompleks-riznotravia"
+      scraped_at: 2026-11-17
+  - id: dubrova-ozero-na-dzhereli
+    name: Озеро на джерелі
+    type: complex
+    status: candidate
+    url: "https://lviv-cottages.vercel.app/lot/dubrova-ozero-na-dzhereli.html"
+    description: Є 5 будиночків, площа 40м, спальня, вітальня, санвузол, тераса. Будинок серед лісу та озера з чистою водою де можна купатись. В будинку все необхідне для вашого якісного проживання. Ціна 4000 грн. Також є чан, сауна, будинок з бджолами, і також є будиночки по 2000 грн але одна кімната з одним двоярусним ліжком на 4 людини і також санвузлом.
+    location:
+      settlement: Дуброва
+      area: Львівська область
+      lat: 49.51799
+      lng: 24.08184
+      distance_km: 36
+    capacity:
+      guests: 2
+      bedrooms: 2
+      beds: null
+      bathrooms: null
+    price:
+      amount: 4000
+      weekend_amount: null
+      new_year_amount: null
+      previous_amount: null
+      updated_at: 2026-11-17
+      min_nights: 1
+      extras: "5 будиночків по 40 м²: спальня, вітальня, санвузол, тераса; є чан і сауна"
+    amenities:
+      - chan
+      - sauna
+      - terrace
+      - lake_view
+      - forest
+    rating: null
+    images:
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/dubrova-ozero-na-dzhereli/01.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/dubrova-ozero-na-dzhereli/02.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/dubrova-ozero-na-dzhereli/03.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/dubrova-ozero-na-dzhereli/04.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/dubrova-ozero-na-dzhereli/05.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/dubrova-ozero-na-dzhereli/06.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/dubrova-ozero-na-dzhereli/07.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/dubrova-ozero-na-dzhereli/08.webp"
+    source:
+      platform: olx
+      url: "https://www.olx.ua/d/uk/obyavlenie/budinochki-kotedzh-blya-lvova-vdpochinok-ozero-na-dzherel-ID10HVjv.html"
+      scraped_at: 2026-11-17
+  - id: thermal-resort-novyi-myliatyn
+    name: Thermal resort
+    type: complex
+    status: candidate
+    url: "https://lviv-cottages.vercel.app/lot/thermal-resort-novyi-myliatyn.html"
+    description: "Відпочинковий комплекс Thermal resort, сірководневе озеро. На території знаходиться велике озеро з пляжем, глибиною 140-150см, з похилим берегом. Для дітей дуже зручно! Також на території ШІСТЬ 2-х кмн. будиночків з басейном (лише для проживаючих) На території пляжу знаходиться FUDCORD, з різноманітним меню. 1км від комплексу знаходиться наш ресторан «Dolce Vita”. Оренда будинків для 2 дорослих (ціна за двох) Пн,вт,ср,чт,нд - 3300 одна доба Пт,сб-4000 одна доба (бронювання на вихідні мінімум 2доби). Третя, четверта людина +500 грн Діти без додаткового місця безкоштовно Максимально 4 людини! В "
+    location:
+      settlement: Новий Милятин
+      area: Львівська область
+      lat: 49.96333
+      lng: 24.49691
+      distance_km: 36
+    capacity:
+      guests: 4
+      bedrooms: 2
+      beds: null
+      bathrooms: null
+    price:
+      amount: 3300
+      weekend_amount: null
+      new_year_amount: null
+      previous_amount: null
+      updated_at: 2026-11-17
+      min_nights: 1
+      extras: шість двокімнатних будиночків біля сірководневого озера з пляжем; чан-джакузі 1 800 за 2 год
+    amenities:
+      - chan
+      - pool
+      - bbq
+      - terrace
+      - kitchen
+      - playground
+      - lake_view
+    rating: null
+    images:
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/thermal-resort-novyi-myliatyn/01.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/thermal-resort-novyi-myliatyn/02.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/thermal-resort-novyi-myliatyn/03.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/thermal-resort-novyi-myliatyn/04.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/thermal-resort-novyi-myliatyn/05.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/thermal-resort-novyi-myliatyn/06.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/thermal-resort-novyi-myliatyn/07.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/thermal-resort-novyi-myliatyn/08.webp"
+    source:
+      platform: olx
+      url: "https://www.olx.ua/d/uk/obyavlenie/orenda-budinochkv-srkovodneve-ozero-z-chanami-ta-mangalom-v-novomu-milyatin-30hv-vd-lvova-ID10ZZZ3.html"
       scraped_at: 2026-11-17
   - id: shklo-lakespa
     name: SHKLO LAKE&SPA
@@ -3594,6 +4731,49 @@ cottages:
     source:
       platform: hutshub
       url: "https://hutshub.com/complexes/6932a3c8355614591dcfc41d/kompleks-vsesvit"
+      scraped_at: 2026-11-17
+  - id: medenychi-forest-chan
+    name: Будиночок з чаном у лісі
+    type: cottage
+    status: candidate
+    url: "https://lviv-cottages.vercel.app/lot/medenychi-forest-chan.html"
+    description: "Запрошуємо на відпочинок у будиночку з чаном, який розташований у лісі. Поряд озеро. Також у нас можна приємно провести час в чані ,насолоджуючись красою природи. Якщо ви втомилися і бажаєте відпочити- Вам саме до нас. Розташований будиночок у с. Летня. 50хвилин їзди від Львова Красива, зелена територія з виглядом на озеро . . Гучні вечірки в нас не вітаються. Чан (великий до 8 осіб) А також у нас можна порибалити ,та поплавати на лодці. Є доставка їжі із ресторану. Вартість оренди залежить від кількості осіб і днів тижня. На усі додаткові запитання, які Вас цікавлять відповім. Телефонуйте на "
+    location:
+      settlement: Меденичі
+      area: Львівська область
+      lat: 49.42891
+      lng: 23.7473
+      distance_km: 50
+    capacity:
+      guests: 8
+      bedrooms: 1
+      beds: null
+      bathrooms: null
+    price:
+      amount: 3900
+      weekend_amount: null
+      new_year_amount: null
+      previous_amount: null
+      updated_at: 2026-11-17
+      min_nights: 1
+      extras: поряд озеро
+    amenities:
+      - chan
+      - lake_view
+      - forest
+    rating: null
+    images:
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/medenychi-forest-chan/01.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/medenychi-forest-chan/02.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/medenychi-forest-chan/03.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/medenychi-forest-chan/04.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/medenychi-forest-chan/05.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/medenychi-forest-chan/06.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/medenychi-forest-chan/07.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/medenychi-forest-chan/08.webp"
+    source:
+      platform: olx
+      url: "https://www.olx.ua/d/uk/obyavlenie/vdpochinok-orenda-budinochku-z-chanom-IDX1FDD.html"
       scraped_at: 2026-11-17
   - id: zatyshok92
     name: Затишок92
@@ -7104,6 +8284,61 @@ cottages:
       platform: hutshub
       url: "https://hutshub.com/complexes/69500ae75a7bad29d008395e/kompleks-iablunevyi-skhyl"
       scraped_at: 2026-11-17
+  - id: panoramaivachiv
+    name: Panorama ivachiv
+    type: cottage
+    status: candidate
+    url: "https://lviv-cottages.vercel.app/lot/panoramaivachiv.html"
+    description: Panorama_ivachiv — це ваша ідеальна локація, де легко відпочити від буденності, насолодитися природою та провести час у приємній атмосфері. Тут однаково комфортно як для романтичного відпочинку удвох, так і для компанії до 10 осіб. Справжня перлина нашої локації — гойдалка в лісі з атмосферною ілюмінацією. Увечері вона перетворюється на казкове місце для фото та романтичних моментів. А вдень лісова атмосфера дарує відчуття спокою й усамітнення. Для максимального релаксу на вас чекають сауна та гарячий чан, де можна розслабитися та насолодитися відпочинком у хорошій компанії. У теплий сезон пра
+    location:
+      settlement: Івачів Горішній
+      area: Тернопільський район
+      lat: 49.650472
+      lng: 25.5187088
+      distance_km: 109
+    capacity:
+      guests: 10
+      bedrooms: 3
+      beds: null
+      bathrooms: null
+    price:
+      amount: 7000
+      weekend_amount: null
+      new_year_amount: null
+      previous_amount: null
+      updated_at: 2026-11-17
+      min_nights: 1
+      extras: null
+    amenities:
+      - lake_view
+      - forest
+      - parking
+      - backup_power
+      - chan
+      - sauna
+      - pool
+      - playground
+      - wifi
+      - ac
+      - terrace
+      - bbq
+      - kitchen
+      - heating
+      - garden
+    rating: null
+    images:
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/panoramaivachiv/01.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/panoramaivachiv/02.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/panoramaivachiv/03.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/panoramaivachiv/04.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/panoramaivachiv/05.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/panoramaivachiv/06.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/panoramaivachiv/07.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/panoramaivachiv/08.webp"
+    source:
+      platform: hutshub
+      url: "https://hutshub.com/complexes/6a86e8c70494726ed9cf0ae2/kompleks-panoramaivachiv"
+      scraped_at: 2026-11-17
   - id: nagoruhouse
     name: NAGORU house
     type: cottage
@@ -7774,6 +9009,56 @@ cottages:
     source:
       platform: hutshub
       url: "https://hutshub.com/complexes/66543df8639858f0c9512278/kompleks-dimvlisi"
+      scraped_at: 2026-11-17
+  - id: hlyba
+    name: Глиба
+    type: cottage
+    status: candidate
+    url: "https://lviv-cottages.vercel.app/lot/hlyba.html"
+    description: Відпочинковий будинок з власною територією, знаходиться за 10 км від Тернополя. Будиночок на пагорбі, де можна сповільнитися, відпочити та побути в спокійній атмосфері🍀 Проживання до 6 осіб (дві окремі спальні та розкладний диван в вітальні). Маємо літній басейн, чан та BBQ зі всім необхідним обладнанням. Є можливість проведення святкувань на території.
+    location:
+      settlement: Великий Глибочок
+      area: Тернопільський район
+      lat: 49.6116932
+      lng: 25.5348043
+      distance_km: 111
+    capacity:
+      guests: 6
+      bedrooms: 2
+      beds: null
+      bathrooms: null
+    price:
+      amount: 6000
+      weekend_amount: 7000
+      new_year_amount: null
+      previous_amount: null
+      updated_at: 2026-11-17
+      min_nights: 1
+      extras: null
+    amenities:
+      - parking
+      - chan
+      - pool
+      - wifi
+      - ac
+      - terrace
+      - bbq
+      - kitchen
+      - garden
+      - pets_allowed
+    rating: null
+    images:
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/hlyba/01.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/hlyba/02.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/hlyba/03.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/hlyba/04.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/hlyba/05.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/hlyba/06.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/hlyba/07.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/hlyba/08.webp"
+    source:
+      platform: hutshub
+      url: "https://hutshub.com/complexes/6abbb69bed65a9082cbb4e0b/kompleks-hlyba"
       scraped_at: 2026-11-17
   - id: simeinyi-kotedzh-lybokhora-hills
     name: Сімейний котедж Lybokhora Hills
@@ -10629,6 +11914,62 @@ cottages:
       platform: hutshub
       url: "https://hutshub.com/complexes/6a02ed8bc5f6906dcfac2225/kompleks-yalyna-resort"
       scraped_at: 2026-11-17
+  - id: smaragd
+    name: Smaragd
+    type: cottage
+    status: candidate
+    url: "https://lviv-cottages.vercel.app/lot/smaragd.html"
+    description: 🌿 Еко-будинок для відпочинку в Тернополі Сучасний заміський будинок у затишному зеленому місці всього близько 500 м від міста Тернополя — простір, де можна втекти від міської метушні та провести час із близькими на природі. Будинок розрахований до 6 гостей та має 2 окремі спальні, простору вітальню-кухню, облаштовану всім необхідним для комфортного проживання. На території — велика тераса, чан/SPA-джакузі, зона BBQ з мангалом та затишне місце для вечорів біля вогню. Закрита приватна територія дозволяє комфортно відпочивати без сторонніх. Для вашої безпеки територія обладнана відеоспостереженн
+    location:
+      settlement: Великі Гаї
+      area: Тернопільський район
+      lat: 49.52622046648808
+      lng: 25.61744928359984
+      distance_km: 119
+    capacity:
+      guests: 6
+      bedrooms: 2
+      beds: null
+      bathrooms: null
+    price:
+      amount: 5500
+      weekend_amount: 7000
+      new_year_amount: 15000
+      previous_amount: null
+      updated_at: 2026-11-17
+      min_nights: 1
+      extras: null
+    amenities:
+      - forest
+      - parking
+      - playground
+      - jacuzzi
+      - chan
+      - wifi
+      - ac
+      - projector
+      - terrace
+      - bbq
+      - kitchen
+      - heating
+      - garden
+    rating:
+      score: 5
+      count: 1
+      platform: hutshub
+    images:
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/smaragd/01.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/smaragd/02.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/smaragd/03.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/smaragd/04.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/smaragd/05.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/smaragd/06.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/smaragd/07.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/smaragd/08.webp"
+    source:
+      platform: hutshub
+      url: "https://hutshub.com/complexes/6ab24ee77ffa6828e7c887b6/kompleks-smaragd"
+      scraped_at: 2026-11-17
   - id: idyliyakotedzh
     name: Idyliya kotedzh
     type: cottage
@@ -11887,6 +13228,59 @@ cottages:
       platform: hutshub
       url: "https://hutshub.com/complexes/655de782b689e9d1b9dee59b/kompleks-tbarn"
       scraped_at: 2026-11-17
+  - id: tysha-house
+    name: Tysha House
+    type: house
+    status: candidate
+    url: "https://lviv-cottages.vercel.app/lot/tysha-house.html"
+    description: Tysha House — місце для тиші, затишку та особливих моментів. Tysha House розташований у мальовничій природній місцевості неподалік Тернополя — серед зелені, лісу та свіжого повітря. Це місце для тих, хто хоче відпочити від міського ритму, побути на природі та провести час у комфорті. На території розташований один затишний будиночок, тому під час його бронювання гості відпочивають лише своєю компанією. Територія будиночка огороджена та відокремлена від загальної зони басейну, що дозволяє поєднати приватність із можливістю користуватися всіма перевагами комплексу. До послуг гостей — теплі басей
+    location:
+      settlement: Романівка
+      area: Тернопільський район
+      lat: 49.530389455720645
+      lng: 25.80147743225098
+      distance_km: 132
+    capacity:
+      guests: 5
+      bedrooms: 1
+      beds: null
+      bathrooms: null
+    price:
+      amount: 5500
+      weekend_amount: 6600
+      new_year_amount: 8000
+      previous_amount: null
+      updated_at: 2026-11-17
+      min_nights: 1
+      extras: null
+    amenities:
+      - lake_view
+      - forest
+      - parking
+      - backup_power
+      - chan
+      - pool
+      - playground
+      - wifi
+      - fireplace
+      - ac
+      - terrace
+      - bbq
+      - pets_allowed
+    rating: null
+    images:
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/tysha-house/01.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/tysha-house/02.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/tysha-house/03.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/tysha-house/04.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/tysha-house/05.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/tysha-house/06.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/tysha-house/07.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/tysha-house/08.webp"
+    source:
+      platform: hutshub
+      url: "https://hutshub.com/complexes/6ab50fa57ffa6828e7c89dfc/kompleks-tysha-house"
+      scraped_at: 2026-11-17
   - id: scandidim-lutsk
     name: Scandidim Lutsk
     type: cottage
@@ -11937,6 +13331,63 @@ cottages:
     source:
       platform: hutshub
       url: "https://hutshub.com/complexes/698df0ee35c8f7df2e8537d1/kompleks-scandidim-lutsk"
+      scraped_at: 2026-11-17
+  - id: guta-weekend
+    name: Guta Weekend
+    type: complex
+    status: candidate
+    url: "https://lviv-cottages.vercel.app/lot/guta-weekend.html"
+    description: "Guta Weekend - це не просто дім, а автентичний простір, де сучасний комфорт переплітається з дикою природою Карпат. Кожна деталь тут дихає гірським затишком. Це місце для тих, хто цінує щирість, справжність та спокій, захований від сторонніх очей. Локація: Котедж розташований у селі Гута Урочище Береги, Івано- Франківської області, прямо біля підніжжя гір. Це ідеальна точка старту: ви можете відправитися в похід національним парком, прогулятися до річки або просто насолоджуватися приватністю власної території. Комфорт: Ми створили простір, де ви будете почуватися як вдома — затишно, тепло та п"
+    location:
+      settlement: Стара Гута
+      area: Богородчанський район
+      lat: 48.63962046335682
+      lng: 24.206067323684696
+      distance_km: 133
+    capacity:
+      guests: 16
+      bedrooms: 6
+      beds: null
+      bathrooms: null
+    price:
+      amount: 11000
+      weekend_amount: null
+      new_year_amount: null
+      previous_amount: null
+      updated_at: 2026-11-17
+      min_nights: 5
+      extras: "комплекс: 2 будинки, ціна за найдешевший"
+    amenities:
+      - mountain_view
+      - forest
+      - backup_power
+      - no_neighbours
+      - parking
+      - chan
+      - sauna
+      - jacuzzi
+      - wifi
+      - fireplace
+      - ac
+      - terrace
+      - bbq
+      - kitchen
+      - heating
+      - garden
+      - pets_allowed
+    rating: null
+    images:
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/guta-weekend/01.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/guta-weekend/02.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/guta-weekend/03.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/guta-weekend/04.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/guta-weekend/05.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/guta-weekend/06.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/guta-weekend/07.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/guta-weekend/08.webp"
+    source:
+      platform: hutshub
+      url: "https://hutshub.com/complexes/6a396af03736e1db02ffed71/kompleks-guta-weekend"
       scraped_at: 2026-11-17
   - id: stavne-158
     name: Ставне 158
@@ -12214,6 +13665,118 @@ cottages:
       platform: hutshub
       url: "https://hutshub.com/complexes/69486e8e5a7bad29d008251b/kompleks-carpathian-barns"
       scraped_at: 2026-11-17
+  - id: shale-v-karpatakh
+    name: Шале в Карпатах
+    type: house
+    status: candidate
+    url: "https://lviv-cottages.vercel.app/lot/shale-v-karpatakh.html"
+    description: Здається Шале в Карпатах у Гукливому - Закарпаття у мальовничому місці подалі від людей. Річка, гори, соснові дерева, тиша. Наше Шале розраховано на 8 чоловік. Зовсім недалеко Пилипець, Воловець, Синевир, Колочава та багато відомих пам'яток України - 4 окремі кімнати, - 1балкони, - Велика кухня для компанії, - Мангал, - Альтанка, - Батут, - Вид на гори. - Парковка на 3-4 авто. - Дуже тихе місце! - Є фінська сауна. В кількох метрах від шале протікає гірська річка та ростуть хвойні ліси Помешкання Сам будинок побудований з дикого зрубу, кімнати та меблі якого зроблені у новому стилі. На 1-му пов
+    location:
+      settlement: Гукливий
+      area: Воловецький район
+      lat: 48.7011242
+      lng: 23.2337673
+      distance_km: 138
+    capacity:
+      guests: 9
+      bedrooms: 4
+      beds: null
+      bathrooms: null
+    price:
+      amount: 5000
+      weekend_amount: null
+      new_year_amount: null
+      previous_amount: null
+      updated_at: 2026-11-17
+      min_nights: 2
+      extras: null
+    amenities:
+      - mountain_view
+      - lake_view
+      - parking
+      - playground
+      - ski
+      - sauna
+      - backup_power
+      - pool
+      - wifi
+      - fireplace
+      - terrace
+      - bbq
+      - kitchen
+      - heating
+      - chan
+      - garden
+      - pets_allowed
+    rating: null
+    images:
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/shale-v-karpatakh/01.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/shale-v-karpatakh/02.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/shale-v-karpatakh/03.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/shale-v-karpatakh/04.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/shale-v-karpatakh/05.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/shale-v-karpatakh/06.webp"
+    source:
+      platform: hutshub
+      url: "https://hutshub.com/complexes/6ad2f37539adbb65a73a06ff/kompleks-shale-v-karpatakh"
+      scraped_at: 2026-11-17
+  - id: kotedzh-v-karpatakh
+    name: Котедж в Карпатах🏠
+    type: cottage
+    status: candidate
+    url: "https://lviv-cottages.vercel.app/lot/kotedzh-v-karpatakh.html"
+    description: Здається будинок у Гукливому - Закарпаття у мальовничому місці подалі від людей. Річка, гори, соснові дерева, тиша. Наш будинок повністю з дерева, розрахований на 10 чоловік. Зовсім недалеко Пилипець, Воловець, Синевир, Колочава та багато відомих пам'яток України - 4 окремі кімнати, - 2 балкони, - Велика кухня для компанії, - Мангал, - Альтанка, - Батут, - Вид на гори. - Парковка на 3-4 авто. - Дуже тихе місце! - Є фінська сауна. - Дитячий майданчик. - Можна проживати з тваринками. В кількох метрах від будинку протікає гірська річка та ростуть хвойні ліси Помешкання Сам будинок побудований з д
+    location:
+      settlement: Гукливий
+      area: Воловецький район
+      lat: 48.7011242
+      lng: 23.2337673
+      distance_km: 138
+    capacity:
+      guests: 10
+      bedrooms: 5
+      beds: null
+      bathrooms: null
+    price:
+      amount: 4000
+      weekend_amount: null
+      new_year_amount: null
+      previous_amount: null
+      updated_at: 2026-11-17
+      min_nights: 2
+      extras: null
+    amenities:
+      - ski
+      - mountain_view
+      - lake_view
+      - forest
+      - parking
+      - backup_power
+      - sauna
+      - chan
+      - playground
+      - no_neighbours
+      - pool
+      - wifi
+      - terrace
+      - bbq
+      - kitchen
+      - heating
+      - garden
+      - pets_allowed
+    rating: null
+    images:
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/kotedzh-v-karpatakh/01.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/kotedzh-v-karpatakh/02.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/kotedzh-v-karpatakh/03.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/kotedzh-v-karpatakh/04.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/kotedzh-v-karpatakh/05.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/kotedzh-v-karpatakh/06.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/kotedzh-v-karpatakh/07.webp"
+    source:
+      platform: hutshub
+      url: "https://hutshub.com/complexes/6aec42ab06b6a838fbeaddaf/kompleks-kotedzh-v-karpatakh"
+      scraped_at: 2026-11-17
   - id: chalet-borzhava
     name: Chalet Borzhava
     type: house
@@ -12381,6 +13944,63 @@ cottages:
     source:
       platform: hutshub
       url: "https://hutshub.com/complexes/6728d8d48d98509586b999c0/kompleks-svoi-chalet"
+      scraped_at: 2026-11-17
+  - id: forestview
+    name: Forestview
+    type: complex
+    status: candidate
+    url: "https://lviv-cottages.vercel.app/lot/forestview.html"
+    description: Просторі дворівневі апартаменти площею 74 м² — чудовий вибір для сімейного відпочинку або подорожі з друзями. Тут поєднуються домашній затишок, комфорт і достатньо простору, щоб кожен міг насолоджуватися відпочинком у власному ритмі. На першому поверсі розташована простора кухня-вітальня з розкладним диваном — місце для спільних сніданків, вечорів за розмовами та відпочинку після насиченого дня. На другому поверсі облаштовані дві окремі спальні, де можна усамітнитися та відновити сили. Також в апартаментах є балкон і просторий санвузол із пральною машиною, що особливо зручно під час тривалішог
+    location:
+      settlement: Гукливий
+      area: Воловецький район
+      lat: 48.68469922968335
+      lng: 23.26406478881836
+      distance_km: 139
+    capacity:
+      guests: 8
+      bedrooms: 3
+      beds: null
+      bathrooms: null
+    price:
+      amount: 2500
+      weekend_amount: null
+      new_year_amount: 4000
+      previous_amount: null
+      updated_at: 2026-11-17
+      min_nights: 1
+      extras: "комплекс: 2 будинки, ціна за найдешевший"
+    amenities:
+      - mountain_view
+      - lake_view
+      - forest
+      - parking
+      - backup_power
+      - chan
+      - sauna
+      - pool
+      - playground
+      - wifi
+      - terrace
+      - bbq
+      - heating
+      - kitchen
+    rating:
+      score: 5
+      count: 3
+      platform: hutshub
+    images:
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/forestview/01.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/forestview/02.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/forestview/03.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/forestview/04.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/forestview/05.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/forestview/06.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/forestview/07.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/forestview/08.webp"
+    source:
+      platform: hutshub
+      url: "https://hutshub.com/complexes/6ad7e3c139adbb65a73a2d58/kompleks-forestview"
       scraped_at: 2026-11-17
   - id: kut-house
     name: KUT HOUSE
@@ -12768,6 +14388,62 @@ cottages:
       platform: hutshub
       url: "https://hutshub.com/complexes/69db5ff635af70516b8cae82/kompleks-sadyba-zatyshok"
       scraped_at: 2026-11-17
+  - id: moi-hory
+    name: Мої Гори
+    type: complex
+    status: candidate
+    url: "https://lviv-cottages.vercel.app/lot/moi-hory.html"
+    description: "Котеджі «Мої Гори» — твоє місце сили у Пилипці «Мої Гори» — це камерний котеджний комплекс у самому серці Карпат, у селі Пилипець. Тут природа відчувається інакше: свіже гірське повітря, потоки тиші, панорами на Великий Верх, Гимбу та Магуру — саме вони надихнули на створення комплексу та дали назви кожному з наших триплексів. Наша територія — це простір для відпочинку без поспіху. Ви прокидаєтеся з видом на гори, маєте власну приватність і водночас — швидкий доступ до всіх локацій Пилипця. Поруч із котеджами пролягли мальовничі маршрути для хайкінгу, недалеко розташований підйомник на Гимбу, "
+    location:
+      settlement: Пилипець
+      area: Міжгірський район
+      lat: 48.6650465945314
+      lng: 23.30107927322388
+      distance_km: 140
+    capacity:
+      guests: 10
+      bedrooms: 3
+      beds: null
+      bathrooms: null
+    price:
+      amount: 7370
+      weekend_amount: null
+      new_year_amount: null
+      previous_amount: null
+      updated_at: 2026-11-17
+      min_nights: 2
+      extras: "комплекс: 2 будинки, ціна за найдешевший"
+    amenities:
+      - ski
+      - mountain_view
+      - forest
+      - parking
+      - backup_power
+      - chan
+      - wifi
+      - fireplace
+      - ac
+      - terrace
+      - bbq
+      - kitchen
+      - heating
+      - pool
+      - playground
+      - pets_allowed
+    rating: null
+    images:
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/moi-hory/01.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/moi-hory/02.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/moi-hory/03.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/moi-hory/04.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/moi-hory/05.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/moi-hory/06.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/moi-hory/07.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/moi-hory/08.webp"
+    source:
+      platform: hutshub
+      url: "https://hutshub.com/complexes/69303a49355614591dcfbb00/kompleks-moi-hory"
+      scraped_at: 2026-11-17
   - id: budynochky-rikahill
     name: Будиночки RikaHill
     type: complex
@@ -12825,6 +14501,64 @@ cottages:
     source:
       platform: hutshub
       url: "https://hutshub.com/complexes/6a82acd8bb3d15bc937e4f90/kompleks-budynochky-rikahill"
+      scraped_at: 2026-11-17
+  - id: hirska-harmonija
+    name: Hirska Harmonija
+    type: a-frame
+    status: candidate
+    url: "https://lviv-cottages.vercel.app/lot/hirska-harmonija.html"
+    description: "Запрошуємо вас у затишний A-frame будинок в Ізках — місце, де можна забути про метушню та просто насолоджуватися природою 🌲✨ Що ми пропонуємо: 🏡 комфортне проживання для 4–6 гостей 🛏️ затишні спальні та комфортні ліжка 🍳 повністю обладнану кухню 🛋️ затишну зону відпочинку 🪟 панорамні вікна з неймовірними краєвидами 🔥 BBQ-зону для атмосферних вечорів 🚗 паркування біля будинку 📶 Wi-Fi 🎣 риболовлю на території 👨‍👩‍👧 зону для відпочинку з дітьми 🌄 тишу, свіже гірське повітря та неймовірну природу А поруч — мальовничі місця Закарпаття та безліч можливостей для активного відпочинку 🏔️"
+    location:
+      settlement: Ізки
+      area: Міжгірський район
+      lat: 48.64642190000001
+      lng: 23.3503639
+      distance_km: 141
+    capacity:
+      guests: 6
+      bedrooms: 2
+      beds: null
+      bathrooms: null
+    price:
+      amount: 5500
+      weekend_amount: null
+      new_year_amount: 9000
+      previous_amount: null
+      updated_at: 2026-11-17
+      min_nights: 2
+      extras: null
+    amenities:
+      - ski
+      - mountain_view
+      - forest
+      - lake_view
+      - parking
+      - playground
+      - chan
+      - wifi
+      - ac
+      - terrace
+      - bbq
+      - kitchen
+      - heating
+      - garden
+      - pets_allowed
+    rating:
+      score: 4.9
+      count: 2
+      platform: hutshub
+    images:
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/hirska-harmonija/01.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/hirska-harmonija/02.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/hirska-harmonija/03.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/hirska-harmonija/04.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/hirska-harmonija/05.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/hirska-harmonija/06.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/hirska-harmonija/07.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/hirska-harmonija/08.webp"
+    source:
+      platform: hutshub
+      url: "https://hutshub.com/complexes/6a6e0b5f768d99d0a5bcb851/kompleks-hirska-harmonija"
       scraped_at: 2026-11-17
   - id: klyva-house
     name: Klyva House
