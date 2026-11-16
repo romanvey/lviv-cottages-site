@@ -11,14 +11,14 @@
 meta:
   site: https://lviv-cottages.vercel.app
   generated: 2026-11-16
-  count: 459
+  count: 463
   centre: "Львів, пл. Ринок (49.839683, 24.029717)"
   distances_are: "straight-line km from that centre, not driving distance"
   currency: UAH
   price_means: "whole property per night, not per person"
-  within_25km: 73
-  within_45km: 91
-  within_100km: 133
+  within_25km: 76
+  within_45km: 95
+  within_100km: 137
   verified_by_phone: 0
   caveat: >-
     Nothing here has been confirmed with an owner. Prices and capacities are what the
@@ -98,7 +98,7 @@ contributing:
     Бірки and Липники were named as target settlements but appear on none of the
     platforms searched; anything there is likely Instagram- or Telegram-only. Coverage
     thins beyond 45 km from Lviv on the non-hutshub sources.
-  settlements_covered: ["Korchyn","Unnamed Road","Івано-Франкове","Івано-Франківська область","Івачів Горішній","Івачів Долішній","Ізки","Ільці","Ісаківці","Балико-Щучинка","Бартатів","Береги","Берегомет","Бережани","Борщовичі","Братковичі","Брюховичі","Буковець","Васильків","Велика Бугаївка","Велике Колодно","Великий Глибочок","Великі Гаї","Великі Мости","Вербовець","Верхня Рожанка","Верхнє Синьовидне","Верхній Ясенів","Верховина","Вигода","Виннички","Вишеньки","Вишка","Вишків","Вища Дубечня","Вовчий","Волосянка","Воля-Блажівська","Воля-Гомулецька","Воропаїв","Ворохта","Вільшинки","Глібівка","Гнідин","Гонятичі","Городок","Гребенів","Григорівка","Гринів","Гукливий","Гута","Делятин","Дерев'янки","Деремезна","Дземброня","Дмитрушки","Добростани","Добрянка","Долинівка","Дубляни","Дубриничі","Дуброва","Жденієво","Жереб’ятин","Жовтанці","Жукин","Журавно","Забуяння","Забір'я","Завадка","Задебрі","Зазим'є","Залужжя","Залісці","Замагора","Зарваниця","Зашків","Здорівка","Зелена","Кам'янка","Кваси","Київ","Кладьківка","Кожухівка","Козьова","Коростів","Корчин","Красник","Красноілля","Красів","Кривопілля","Криворівня","Кропивник","Крушельниця","Крюківщина","Куликів","Куражин","Лавочне","Ластівці","Летня","Либохора","Липина","Личанка","Лопушанка-Хомина","Лопушна","Луцьк","Львів","Лютіж","Ліпляве","Ліс","Лісники","Лісопотік","Майдан","Мала Воля","Малі Грибовичі","Меденичі","Межирів","Мигове","Миколаїв","Миколаївка","Микуличин","Мита","Михайлівка-Рубежівка","Мшанець","Наварія","Невицьке","Непоротове","Нестюки","Нижня Рожанка","Нижні Ворота","Новий Кропивник","Новий Милятин","Новомиколаївка","Новосілки","Ніжиловичі","Оболоння","Озерське","Орявчик","Орів","Остер","Павлівка","Папірня","Петрушки","Пилипець","Плав'я","Подобовець","Поляна","Поляниця","Поршна","Проців","Пустомити","Підгородці","Підліски","Підполоззя","Райнова","Раківець","Ременів","Ржищів","Рибне","Розділ","Розтоки","Рокитне","Романівка","Ромашки","Рудківці","Рудне","Руська","Рівня","Річка","Самушин","Сасівка","Сенечів","Синяк","Скнилів","Сколе","Славське","Славсько","Сокільники","Солочин","Солуки","Соснове","Спас","Ставне","Стадники","Стайки","Стара Гута","Старий Мізунь","Старі Петрівці","Стебний","Страдч","Субіч","Сурсько-Литовське","Сухий Потік","Суховоля","Східниця","Татарів","Тернавка","Тетерівка","Товщів","Толокунь","Туринка","Тухля","Тюдів","Уклин","Урич","Устеріки","Ферма","Фортунатівка","Хащованя","Хвильово-Сорочин","Хмільна","Холодне","Хоросно","Хрещатик","Царичанка","Цитуля","Черетів","Чишки","Чмирівка","Шаян","Широка Гребля","Шкло","Шоломинь","Шпитьки","Щітки","Яблуниця","Яблунів","Яворів","Яремче","Ясногородка","Ясіня","Яцьки","вул. Лісова"]
+  settlements_covered: ["Korchyn","Unnamed Road","Івано-Франкове","Івано-Франківська область","Івачів Горішній","Івачів Долішній","Ізки","Ільці","Ісаківці","Балико-Щучинка","Бартатів","Береги","Берегомет","Бережани","Борщовичі","Братковичі","Брюховичі","Буковець","Васильків","Велика Бугаївка","Велике Колодно","Великий Глибочок","Великі Гаї","Великі Мости","Вербовець","Верхня Рожанка","Верхнє Синьовидне","Верхній Ясенів","Верховина","Вигода","Виннички","Вишеньки","Вишка","Вишків","Вища Дубечня","Вовчий","Волосянка","Воля-Блажівська","Воля-Гомулецька","Воропаїв","Ворохта","Вільшинки","Віняви","Глібівка","Гнідин","Гонятичі","Городок","Гребенів","Григорівка","Гринів","Гукливий","Гута","Делятин","Дерев'янки","Деревач","Деремезна","Дземброня","Дмитрушки","Добростани","Добрянка","Долинівка","Дубляни","Дубриничі","Дуброва","Жденієво","Жереб’ятин","Жовтанці","Жукин","Журавно","Забуяння","Забір'я","Завадка","Задебрі","Зазим'є","Залужжя","Залісці","Замагора","Зарваниця","Зашків","Здорівка","Зелена","Кам'янка","Кваси","Київ","Кладьківка","Кожухівка","Козьова","Коростів","Корчин","Красник","Красноілля","Красів","Кривопілля","Криворівня","Кропивник","Крушельниця","Крюківщина","Куликів","Куражин","Лавочне","Ластівці","Летня","Либохора","Липина","Личанка","Лопушанка-Хомина","Лопушна","Луцьк","Львів","Лютіж","Ліпляве","Ліс","Лісники","Лісопотік","Майдан","Мала Воля","Малі Грибовичі","Меденичі","Межирів","Мигове","Миколаїв","Миколаївка","Микуличин","Мита","Михайлівка-Рубежівка","Мшанець","Наварія","Невицьке","Непоротове","Нестюки","Нижня Рожанка","Нижні Ворота","Новий Кропивник","Новий Милятин","Новомиколаївка","Новосілки","Ніжиловичі","Оболоння","Озерське","Орявчик","Орів","Остер","Павлівка","Папірня","Петрушки","Пилипець","Плав'я","Подобовець","Поляна","Поляниця","Поршна","Проців","Пустомити","Підгородці","Підліски","Підполоззя","Райнова","Раківець","Ременів","Ржищів","Рибне","Розділ","Розтоки","Рокитне","Романівка","Ромашки","Рудківці","Рудне","Руська","Рівня","Річка","Самушин","Сасівка","Сенечів","Синяк","Скнилів","Сколе","Славське","Славсько","Сокільники","Солочин","Солуки","Соснове","Спас","Ставне","Стадники","Стайки","Стара Гута","Старий Мізунь","Старі Петрівці","Стебний","Страдч","Субіч","Сурсько-Литовське","Сухий Потік","Суховоля","Східниця","Татарів","Тернавка","Тетерівка","Товщів","Толокунь","Туринка","Тухля","Тюдів","Уклин","Урич","Устеріки","Ферма","Фортунатівка","Хащованя","Хвильово-Сорочин","Хмільна","Холодне","Хоросно","Хрещатик","Царичанка","Цитуля","Черетів","Чишки","Чмирівка","Шаян","Широка Гребля","Шкло","Шоломинь","Шпитьки","Щітки","Яблуниця","Яблунів","Яворів","Яремче","Ясногородка","Ясіня","Яцьки","вул. Лісова"]
 
 leads:
   what_this_is: >-
@@ -957,6 +957,50 @@ cottages:
     source:
       platform: olx
       url: "https://www.olx.ua/d/uk/obyavlenie/orenda-budinku-blya-lvova-chan-mangalna-zona-ID11dCDV.html"
+      scraped_at: 2026-11-17
+  - id: gora-complex
+    name: Gora Complex
+    type: house
+    status: candidate
+    url: "https://lviv-cottages.vercel.app/lot/gora-complex.html"
+    description: "Instagram Gora.complex.Lviv Великий просторий будинку площею 150м2 Ідеальний варіант для святкувань Є до 12 спальних місць Вміщає 20 людей 500м до магазину Будні дні пн-вт-ср-чт ціна 10.000 грн Вихідні дні пт -сб -нд 16.000 грн Заселення 14:00 Виселення 11:00 Також є сауна та чан за додаткову плату В котеджі в середині забороняється курити + Розумний будинок + Інвертор світло є завжди + PlayStation 5 + Мангал і дрова входять у вартісьть + Найбільший відкритий Басейн у Брюховичах Додатково фотозона Додатково кейтерінг Додатково їжа з ресторану Ціна вказана за 10 людей кожна наступна людина + 1."
+    location:
+      settlement: Брюховичі
+      area: Львівська область
+      lat: 49.90691
+      lng: 23.97137
+      distance_km: 9
+    capacity:
+      guests: 12
+      bedrooms: 4
+      beds: null
+      bathrooms: null
+    price:
+      amount: 10000
+      weekend_amount: 16000
+      new_year_amount: null
+      previous_amount: null
+      updated_at: 2026-11-17
+      min_nights: 1
+      extras: будні 10 000, пт–нд 16 000; ціна до 10 гостей, далі +1 000; ночівля до 12, вдень до 20; сауна й чан окремо
+    amenities:
+      - chan
+      - sauna
+      - pool
+      - bbq
+    rating: null
+    images:
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/gora-complex/01.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/gora-complex/02.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/gora-complex/03.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/gora-complex/04.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/gora-complex/05.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/gora-complex/06.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/gora-complex/07.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/gora-complex/08.webp"
+    source:
+      platform: olx
+      url: "https://www.olx.ua/d/uk/obyavlenie/orenda-kotedzhu-bryuhovich-lvv-pisht-u-nstagram-gora-complex-lviv-IDX3hEN.html"
       scraped_at: 2026-11-17
   - id: obriy-house
     name: Obriy House
@@ -2496,6 +2540,59 @@ cottages:
       platform: hutshub
       url: "https://hutshub.com/complexes/678e668fe4c0366b4e56db4f/kompleks-grove-cab"
       scraped_at: 2026-11-17
+  - id: ulis-viniavy
+    name: УЛІС.Віняви
+    type: complex
+    status: candidate
+    url: "https://lviv-cottages.vercel.app/lot/ulis-viniavy.html"
+    description: "Новий комплекс будинків на природі за 25 км від Львова: ліси, лісостепи, лавандові поля. Котеджі на 1 і 2 спальні, A-frame для двох, адаптований котедж; сауна, чани, басейн. Pet-friendly. Відкрився 1 червня 2026."
+    location:
+      settlement: Віняви
+      area: Львівський район
+      lat: 49.6732353
+      lng: 23.9619152
+      distance_km: 19
+    capacity:
+      guests: 6
+      bedrooms: 2
+      beds: null
+      bathrooms: null
+    price:
+      amount: 5000
+      weekend_amount: null
+      new_year_amount: null
+      previous_amount: null
+      updated_at: 2026-11-17
+      min_nights: 1
+      extras: від 5 000 (котедж на 1 спальню, A-frame для двох) і від 6 000 (котедж на 2 спальні, до 4+2 гостей); +950 за додаткового гостя; чан 3 500 за сеанс
+    amenities:
+      - chan
+      - sauna
+      - pool
+      - fireplace
+      - terrace
+      - bbq
+      - forest
+      - backup_power
+      - pets_allowed
+      - wheelchair
+    rating:
+      score: 4.9
+      count: 26
+      platform: booking
+    images:
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/ulis-viniavy/01.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/ulis-viniavy/02.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/ulis-viniavy/03.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/ulis-viniavy/04.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/ulis-viniavy/05.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/ulis-viniavy/06.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/ulis-viniavy/07.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/ulis-viniavy/08.webp"
+    source:
+      platform: own_site
+      url: "https://ulis.ua/vinyavy"
+      scraped_at: 2026-11-17
   - id: aquatel-budynok-iz-saunoiu-ta-chanom
     name: Aquatel — будинок із сауною та чаном
     type: cottage
@@ -2712,6 +2809,54 @@ cottages:
       platform: own_site
       url: "https://www.aquatelcomplex.com/portfolio-collections/будинки/project-title-5"
       scraped_at: 2026-08-03
+  - id: villa-4-kachky
+    name: Вілла «4 качки»
+    type: house
+    status: candidate
+    url: "https://lviv-cottages.vercel.app/lot/villa-4-kachky.html"
+    description: "ВІЛЛА «4 КАЧКИ» — ОСІННІЙ ВІДПОЧИНОК БІЛЯ ЛЬВОВА 30 грудня по 2 січня вільних дат немає Новий будинок зі зрубу серед осіннього лісу — лише 10 км від Львова та 1 км від траси Київ–Чоп. Коли надворі холодно, особливо приємно сховатися у теплому будинку, налити гарячого чаю, залізти в чан і нікуди не поспішати. ОСІННІ ЦІНИ * Понеділок–четвер — 4000 грн/доба до 4 осіб. Кожен наступний гість — +500 грн. * П’ятниця–неділя — 7000 грн/доба до 6 осіб. Кожен наступний гість — +600 грн. При бронюванні двох діб — третя доба зі знижкою 50%. Довші бронювання — за домовленістю. ЧАН — ROLLS-ROYCE СЕРЕД ЧАНІВ "
+    location:
+      settlement: Деревач
+      area: Львівська область
+      lat: 49.66
+      lng: 24
+      distance_km: 20
+    capacity:
+      guests: 12
+      bedrooms: 3
+      beds: null
+      bathrooms: null
+    price:
+      amount: 4000
+      weekend_amount: 7000
+      new_year_amount: null
+      previous_amount: null
+      updated_at: 2026-11-17
+      min_nights: 1
+      extras: 4 000 до 4 гостей, вихідні 7 000 до 6; далі +500–600; безлімітний чан-джакузі; третя ніч за пів ціни
+    amenities:
+      - chan
+      - bbq
+      - terrace
+      - kitchen
+      - wifi
+      - projector
+      - playground
+      - forest
+    rating: null
+    images:
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/villa-4-kachky/01.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/villa-4-kachky/02.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/villa-4-kachky/03.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/villa-4-kachky/04.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/villa-4-kachky/05.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/villa-4-kachky/06.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/villa-4-kachky/07.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/villa-4-kachky/08.webp"
+    source:
+      platform: olx
+      url: "https://www.olx.ua/d/uk/obyavlenie/budinok-podobovo-lvv-orenda-v-ls-bezlmtniy-chan-dzhakuz-do-12-gostey-svyatkuvannya-dvich-vechr-vdpochinok-den-narodzhennya-ID11poEF.html"
+      scraped_at: 2026-11-17
   - id: neboskhyl
     name: Небосхил
     type: cottage
@@ -3856,6 +4001,48 @@ cottages:
     source:
       platform: real_estate_lviv
       url: "https://www.real-estate.lviv.ua/12470-%D0%B1%D1%83%D0%B4%D0%B8%D0%BD%D0%BE%D0%BA-%D0%BF%D0%BE%D0%B4%D0%BE%D0%B1%D0%BE%D0%B2%D0%BE-%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%BE%D0%BA-%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%BE%D1%86%D1%8C%D0%BA%D0%B8%D0%B9-.html"
+      scraped_at: 2026-11-17
+  - id: lavinn
+    name: LAV.inn
+    type: a-frame
+    status: candidate
+    url: "https://lviv-cottages.vercel.app/lot/lavinn.html"
+    description: Котеджний комплекс в 30хв від Львова. Мальовничі пейзажі з тераси будиночків захоплюють подих. На території є два будиночки (А-фрейми).
+    location:
+      settlement: Поляна
+      area: Миколаївський район
+      lat: 49.5882493
+      lng: 24.0604287
+      distance_km: 28
+    capacity:
+      guests: 6
+      bedrooms: 2
+      beds: null
+      bathrooms: null
+    price:
+      amount: 4000
+      weekend_amount: null
+      new_year_amount: null
+      previous_amount: 4500
+      updated_at: 2026-11-17
+      min_nights: 1
+      extras: від 4 000; два A-frame зі спільним басейном, у кожному дві кімнати й кухня-студія; до 6 гостей (8 з додатковим ліжком)
+    amenities:
+      - pool
+      - sauna
+      - chan
+      - ac
+      - fireplace
+    rating: null
+    images:
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/lavinn/01.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/lavinn/02.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/lavinn/03.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/lavinn/04.webp"
+      - "https://pub-16d758e8a84c4d1fb0fb04e06e144f6f.r2.dev/images/lavinn/05.webp"
+    source:
+      platform: olx
+      url: "https://www.olx.ua/d/uk/obyavlenie/podobova-orenda-budinka-z-baseynom-blya-lvova-selo-polyana-IDZMZiU.html"
       scraped_at: 2026-11-17
   - id: lavinn-villa-country
     name: Вілла Country (LAVinn)
